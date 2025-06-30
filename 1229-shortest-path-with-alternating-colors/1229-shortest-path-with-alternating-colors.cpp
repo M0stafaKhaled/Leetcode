@@ -4,7 +4,7 @@ public:
                                          vector<vector<int>>& blueEdges) {
 
         vector<int> ans(n, 1e9);
-      
+
         ans[0] = 0;
         vector<vector<int>> graph1(n);
         vector<vector<int>> graph2(n);
@@ -20,22 +20,22 @@ public:
 
             graph2[first].push_back(second);
         }
-        queue<pair<int,  pair<int  , int>>> q;
+        queue<pair<int, pair<int, int>>> q;
         for (auto e : graph1[0]) {
-            q.push({e, {1 , 1}});
+            q.push({e, {1, 1}});
             if (e != 0)
                 ans[e] = 1;
         }
         for (auto e : graph2[0]) {
-          q.push({e, {0 , 1}});
+            q.push({e, {0, 1}});
             if (e != 0)
                 ans[e] = 1;
         }
         int h = 2;
         while (q.size()) {
             auto [node, vv] = q.front();
-            auto [color , val] = vv ; 
-            
+            auto [color, val] = vv;
+
             int cur = ans[node];
             int size = q.size();
             q.pop();
@@ -47,9 +47,9 @@ public:
 
                         //  cout << e << endl;
                         if (e != -1) {
-                            cout << e << " " << ans[e] << " " << h << endl;
-                            q.push({e, {0, val+1}});
-                            ans[e] = min(ans[e], val+1);
+
+                            q.push({e, {0, val + 1}});
+                            ans[e] = min(ans[e], val + 1);
                             e = -1;
                         }
                     }
@@ -57,9 +57,9 @@ public:
                     for (auto& e : graph1[node]) {
 
                         if (e != -1) {
-                            cout << e << " " << ans[e] << endl;
-                              q.push({e, {1, val+1}});
-                            ans[e] = min(ans[e], val+1);
+
+                            q.push({e, {1, val + 1}});
+                            ans[e] = min(ans[e], val + 1);
                             e = -1;
                         }
                     }
