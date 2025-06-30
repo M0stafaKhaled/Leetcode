@@ -43,24 +43,23 @@ public:
 
             while (size--) {
                 if (color == 1) {
-                    for (auto& e : graph2[node]) {
+                    for (int i = graph2[node].size() - 1; i >= 0; i--) {
+                        int e = graph2[node][i];
 
-                        //  cout << e << endl;
                         if (e != -1) {
-
                             q.push({e, {0, val + 1}});
                             ans[e] = min(ans[e], val + 1);
-                            e = -1;
+                            graph2[node].pop_back();
                         }
                     }
                 } else {
-                    for (auto& e : graph1[node]) {
+                    for (int i = graph1[node].size() - 1; i >= 0; i--) {
+                        int e = graph1[node][i];
 
                         if (e != -1) {
-
                             q.push({e, {1, val + 1}});
                             ans[e] = min(ans[e], val + 1);
-                            e = -1;
+                            graph1[node].pop_back();
                         }
                     }
                 }
