@@ -29,10 +29,10 @@ public:
             if(map[i].size())
             {
                 sort(map[i].begin() , map[i].end());
-                vector<int> t ; 
+                vector<int> t(map[i].size()) ; 
                 for(int j =0 ; j<map[i].size() ; j++)
                 {
-                    t.push_back(map[i][j].second) ; 
+                    t[j]= map[i][j].second ; 
                 }
                 ans.push_back(t);
             }
