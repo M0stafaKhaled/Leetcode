@@ -12,27 +12,26 @@
  */
 class Solution {
 public:
-    void solve(TreeNode* root, int x, int y , unordered_map<int, vector<pair<int, int>>>& map) {
+    void solve(TreeNode* root, int x, int y,
+               map<int, vector<pair<int, int>>>& maps) {
         if (!root)
             return;
-        map[y].push_back({x, root->val});
-        solve(root->left, x + 1, y - 1 , map);
+        maps[y].push_back({x, root->val});
+        solve(root->left, x + 1, y - 1, maps);
 
-        solve(root->right, x + 1, y + 1 , map);
+        solve(root->right, x + 1, y + 1, maps);
     }
     vector<vector<int>> verticalTraversal(TreeNode* root) {
         vector<vector<int>> ans;
-        unordered_map<int, vector<pair<int, int>>> map;
-        solve(root, 0, 0 , map);
-        for (int i = -1000; i <= 1000; i++) {
-            if (map[i].size()) {
-                sort(map[i].begin(), map[i].end());
-                vector<int> t(map[i].size());
-                for (int j = 0; j < map[i].size(); j++) {
-                    t[j] = map[i][j].second;
-                }
-                ans.push_back(t);
+        map<int, vector<pair<int, int>>> maps;
+        solve(root, 0, 0, maps);
+        for (auto [x, n] : maps) {
+            sort(n.begin(), n.end());
+            vector<int> t(n.size());
+            for (int j = 0; j < n.size(); j++) {
+                t[j] = n[j].second;
             }
+            ans.push_back(t);
         }
         return ans;
     }
