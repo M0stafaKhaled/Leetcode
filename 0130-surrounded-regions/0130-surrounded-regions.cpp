@@ -3,11 +3,11 @@ public:
     class DSU {
     public:
         vector<vector<pair<int, int>>> pr;
-        vector<vector<int>> size;
+    //    vector<vector<int>> size;
         vector<vector<bool>> valid;
         DSU(int n, int m) {
             pr = vector<vector<pair<int, int>>>(n, vector<pair<int, int>>(m));
-            size = vector<vector<int>>(n, vector<int>(m, 1));
+          //  size = vector<vector<int>>(n, vector<int>(m, 1));
             valid = vector<vector<bool>>(n, vector<bool>(m, true));
             for (int i = 0; i < n; i++)
                 for (int j = 0; j < m; j++) {
@@ -36,15 +36,15 @@ public:
 
             if (px == py)
                 return;
-            if (size[px.first][px.second] < size[py.first][py.second]) {
-                swap(px, py);
-            }
+            // if (size[px.first][px.second] < size[py.first][py.second]) {
+            //     swap(px, py);
+            // }
             pr[py.first][py.second] = px;
             valid[py.first][py.second] =
                 valid[py.first][py.second] && valid[px.first][px.second];
             valid[px.first][px.second] =
                 valid[py.first][py.second] && valid[px.first][px.second];
-            size[px.first][px.second] += size[py.first][py.second];
+           // size[px.first][px.second] += size[py.first][py.second];
         }
     };
 
