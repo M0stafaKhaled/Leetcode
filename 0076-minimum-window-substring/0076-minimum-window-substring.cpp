@@ -1,13 +1,12 @@
 class Solution {
 public:
-    bool isTheSame(int freq[], int freq2[]) {
+    bool isTheSame(int (&freq)[128], int (&freq2)[128]) {
         for (int j = 0; j < 128; j++) {
             if (freq2[j] < freq[j]) {
-               return false;
+                return false;
             }
         }
-
-        return true ; 
+        return true;
     }
     string minWindow(string s, string t) {
 
@@ -25,7 +24,7 @@ public:
             freq2[s[i] - 'A']++;
 
             if (i >= size) {
-                while (i>=start &&isTheSame(freq , freq2)) {
+                while (i >= start && isTheSame(freq, freq2)) {
                     if (right - left > i - start) {
                         left = start;
                         right = i;
