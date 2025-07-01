@@ -41,12 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/M0stafaKhaled/Leetcode/tree/master/0922-possible-bipartition) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/M0stafaKhaled/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/M0stafaKhaled/Leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/M0stafaKhaled/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2121-find-if-path-exists-in-graph](https://github.com/M0stafaKhaled/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
 | ------- |
 | [0922-possible-bipartition](https://github.com/M0stafaKhaled/Leetcode/tree/master/0922-possible-bipartition) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/M0stafaKhaled/Leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/M0stafaKhaled/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2121-find-if-path-exists-in-graph](https://github.com/M0stafaKhaled/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Tree
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/M0stafaKhaled/Leetcode/tree/master/0721-accounts-merge) |
 | [0922-possible-bipartition](https://github.com/M0stafaKhaled/Leetcode/tree/master/0922-possible-bipartition) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/M0stafaKhaled/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/M0stafaKhaled/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2121-find-if-path-exists-in-graph](https://github.com/M0stafaKhaled/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/M0stafaKhaled/Leetcode/tree/master/0130-surrounded-regions) |
 | [0721-accounts-merge](https://github.com/M0stafaKhaled/Leetcode/tree/master/0721-accounts-merge) |
 | [0922-possible-bipartition](https://github.com/M0stafaKhaled/Leetcode/tree/master/0922-possible-bipartition) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/M0stafaKhaled/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2121-find-if-path-exists-in-graph](https://github.com/M0stafaKhaled/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Queue
 |  |
