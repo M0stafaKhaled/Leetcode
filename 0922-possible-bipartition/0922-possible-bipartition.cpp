@@ -14,8 +14,7 @@ public:
         return 1;
     }
     bool possibleBipartition(int n, vector<vector<int>>& dislikes) {
-        vector<int> color(n + 1, -1);
-
+       
         vector<vector<int>> graph(n + 1);
         vector<int> vist(n + 1, -1);
         for (int i = 0; i < dislikes.size(); i++) {
