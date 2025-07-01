@@ -68,11 +68,10 @@ public:
                             }
                         } else {
                             dsu.unvalid(i, j);
-                            
                         }
                     }
                 }
-                cout << board[i][j] << " ";
+             //   cout << board[i][j] << " ";
             }
             cout << endl;
         }
@@ -82,7 +81,7 @@ public:
 
                 if (board[i][j] == 'O') {
                     if (dsu.check(i, j)) {
-                        cout<<"test"<<endl ; 
+                     //   cout << "test" << endl;
                         board[i][j] = 'X';
                     }
                 }
