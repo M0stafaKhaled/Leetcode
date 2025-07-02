@@ -14,20 +14,24 @@ public:
         if (!head)
             return head;
 
-        while (st.size() && st.top()->val < head->val) {
-            auto top = st.top();
-            st.pop();
-            if (st.size() >= 1) {
-                st.top()->next = top->next;
-            }
-        }
-        st.push(head);
         solve(head->next, st);
         return head;
     }
-    ListNode* removeNodes(ListNode* head) {
+    ListNode* removeNodes(ListNode* node) {
+        ListNode* head = node;
         stack<ListNode*> st;
-        solve(head, st);
+        while (head) {
+            while (st.size() && st.top()->val < head->val) {
+                auto top = st.top();
+                st.pop();
+                if (st.size() >= 1) {
+                    st.top()->next = top->next;
+                }
+            }
+            st.push(head);
+            head = head->next;
+        }
+
         while (st.size() > 1) {
             st.pop();
         }
