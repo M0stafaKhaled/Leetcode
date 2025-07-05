@@ -24,7 +24,7 @@ public:
         return db[idx][m][n] = ans;
     }
     int findMaxForm(vector<string>& strs, int m, int n) {
-        fill(&db[0][0][0], &db[0][0][0] + 601 * 101 * 101, -1);
+        memset(db, -1, sizeof(db)); 
 
         return solve(strs, m, n, 0);
     }
