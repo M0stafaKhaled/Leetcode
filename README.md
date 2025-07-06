@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/M0stafaKhaled/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0721-accounts-merge](https://github.com/M0stafaKhaled/Leetcode/tree/master/0721-accounts-merge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/M0stafaKhaled/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2213-find-all-people-with-secret](https://github.com/M0stafaKhaled/Leetcode/tree/master/2213-find-all-people-with-secret) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/M0stafaKhaled/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 ## Counting
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1229-shortest-path-with-alternating-colors](https://github.com/M0stafaKhaled/Leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/M0stafaKhaled/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2121-find-if-path-exists-in-graph](https://github.com/M0stafaKhaled/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2213-find-all-people-with-secret](https://github.com/M0stafaKhaled/Leetcode/tree/master/2213-find-all-people-with-secret) |
 ## Graph
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1229-shortest-path-with-alternating-colors](https://github.com/M0stafaKhaled/Leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/M0stafaKhaled/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2121-find-if-path-exists-in-graph](https://github.com/M0stafaKhaled/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2213-find-all-people-with-secret](https://github.com/M0stafaKhaled/Leetcode/tree/master/2213-find-all-people-with-secret) |
 ## Tree
 |  |
 | ------- |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/M0stafaKhaled/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/M0stafaKhaled/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2121-find-if-path-exists-in-graph](https://github.com/M0stafaKhaled/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2213-find-all-people-with-secret](https://github.com/M0stafaKhaled/Leetcode/tree/master/2213-find-all-people-with-secret) |
 ## Binary Tree
 |  |
 | ------- |
@@ -95,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-satisfiability-of-equality-equations](https://github.com/M0stafaKhaled/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/M0stafaKhaled/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2121-find-if-path-exists-in-graph](https://github.com/M0stafaKhaled/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2213-find-all-people-with-secret](https://github.com/M0stafaKhaled/Leetcode/tree/master/2213-find-all-people-with-secret) |
 ## Queue
 |  |
 | ------- |
