@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1229-shortest-path-with-alternating-colors](https://github.com/M0stafaKhaled/Leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1275-validate-binary-tree-nodes](https://github.com/M0stafaKhaled/Leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/M0stafaKhaled/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/M0stafaKhaled/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/M0stafaKhaled/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2213-find-all-people-with-secret](https://github.com/M0stafaKhaled/Leetcode/tree/master/2213-find-all-people-with-secret) |
 ## Tree
@@ -150,8 +151,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/M0stafaKhaled/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/M0stafaKhaled/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/M0stafaKhaled/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Design
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/M0stafaKhaled/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Topological Sort
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/M0stafaKhaled/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Shortest Path
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/M0stafaKhaled/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
