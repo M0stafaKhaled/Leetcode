@@ -1,5 +1,6 @@
 class Solution {
 public:
+    vector<int> db;
     int solve(string& s, int idx) {
         if (idx > s.size())
             return 0;
@@ -7,7 +8,9 @@ public:
             return 1;
         if (s[idx] == '0')
             return 0;
-        // case 2
+
+        if (db[idx] != -1)
+            return db[idx];
         int ans = 0;
         if (idx + 1 < s.size()) {
             int first = s[idx] - '0';
@@ -21,9 +24,10 @@ public:
 
         ans += solve(s, idx + 1);
 
-        return ans;
+        return db[idx] = ans;
     }
     int numDecodings(string s) {
+        db = vector<int>(s.size(), -1);
         int ans = solve(s, 0);
         bool check = true;
         for (int i = 0; i < s.size(); i++) {
