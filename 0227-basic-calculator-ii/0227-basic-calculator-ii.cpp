@@ -12,8 +12,6 @@ public:
         for (int i = 0; i < s.size(); i++) {
             int num = 0;
             while (i < s.size() && s[i] - '0' < 10 && s[i] - '0' >= 0) {
-                int dd = s[i] - '0';
-
                 num = num * 10;
                 num += s[i] - '0';
                 i++;
