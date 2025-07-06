@@ -24,8 +24,8 @@ public:
         while (pq.size()) {
             auto [cost, node] = pq.top();
             pq.pop();
-            if (costs[node] < cost)
-                continue;
+            // if (costs[node] < cost)
+            //     continue;
             for (auto ch : graph[node]) {
                 auto [ch_node, ch_cost] = ch;
                 long long d = (ch_cost + cost);
