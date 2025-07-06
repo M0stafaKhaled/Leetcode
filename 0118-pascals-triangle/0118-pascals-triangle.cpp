@@ -18,7 +18,7 @@ public:
          ans.push_back({1}) ; 
         if(numRows ==1) return  ans ; 
         
-        vector<int> cur(2 , 1) ; 
+        vector<int> cur(1 , 1) ; 
         solve(2 , numRows , cur) ; 
 
         return ans ;  
