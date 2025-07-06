@@ -18,7 +18,7 @@ public:
                 num += s[i] - '0';
                 i++;
             }
-            cout << num  << " "  << x << endl;
+    
             if (x == '+') {
                 st.push(num);
             } else if (x == '-') {
