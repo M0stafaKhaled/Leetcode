@@ -8,10 +8,10 @@ public:
         if (j + 1 < p.size() && p[j + 1] == '*') {
 
             return solve(s, p, i, j + 2) ||
-                    (i<s.size() && (p[j] == s[i] || p[j] == '.')) && solve(s, p, i + 1, j)  ;
+                    ((p[j] == s[i] || p[j] == '.')) && solve(s, p, i + 1, j)  ;
 
         } else {
-            return   (i<s.size() && (p[j] == '.' || p[j] == s[i])) && solve(s, p, i + 1, j + 1) ;
+            return   ( (p[j] == '.' || p[j] == s[i])) && solve(s, p, i + 1, j + 1) ;
         }
 
         
