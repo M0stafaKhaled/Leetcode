@@ -6,9 +6,7 @@ public:
         if (arr.size() == k) {
             ans.push_back(arr);
         }
-        if (idx == n + 1)
-            return;
-        if (arr.size() > k)
+        if (idx == n + 1 || arr.size() > k)
             return;
     
         for (int i = idx; i <= n; i++) {
