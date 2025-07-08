@@ -5,6 +5,7 @@ public:
 
         if (arr.size() == k) {
             ans.push_back(arr);
+            return ; 
         }
         if (idx == n + 1 || arr.size() > k)
             return;
