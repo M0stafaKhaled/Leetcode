@@ -4,7 +4,7 @@ public:
         
         if (j == p.size())
             return i == s.size();
-
+        if(i>s.size()) return 0;
         if (j + 1 < p.size() && p[j + 1] == '*') {
 
             return solve(s, p, i, j + 2) ||
