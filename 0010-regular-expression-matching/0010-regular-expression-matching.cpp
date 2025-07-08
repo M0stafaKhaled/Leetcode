@@ -8,6 +8,7 @@ public:
             return 0;
         if (j + 1 < p.size() && p[j + 1] == '*') {
             bool check = solve(s, p, i, j + 2);
+            if(check) return true ; 
             if (((p[j] == s[i] || p[j] == '.')))
                 check |= solve(s, p, i + 1, j);
             return check;
