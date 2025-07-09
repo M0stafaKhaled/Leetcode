@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/M0stafaKhaled/Leetcode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/M0stafaKhaled/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/M0stafaKhaled/Leetcode/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/M0stafaKhaled/Leetcode/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/M0stafaKhaled/Leetcode/tree/master/0139-word-break) |
 | [0239-sliding-window-maximum](https://github.com/M0stafaKhaled/Leetcode/tree/master/0239-sliding-window-maximum) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/M0stafaKhaled/Leetcode/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/M0stafaKhaled/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/M0stafaKhaled/Leetcode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/M0stafaKhaled/Leetcode/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/M0stafaKhaled/Leetcode/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/M0stafaKhaled/Leetcode/tree/master/0474-ones-and-zeroes) |
