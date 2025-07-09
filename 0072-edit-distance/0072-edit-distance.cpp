@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<vector<int>> db ; 
-    int solve(string word1, string word2 , int i , int j)
+    int solve(string &word1, string &word2 , int i , int j)
     {
         if(i == word1.size() && j==word2.size()) return 0 ; 
 
