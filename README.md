@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/M0stafaKhaled/Leetcode/tree/master/0721-accounts-merge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/M0stafaKhaled/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1370-count-number-of-nice-subarrays](https://github.com/M0stafaKhaled/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/M0stafaKhaled/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/M0stafaKhaled/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Sliding Window
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/M0stafaKhaled/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/M0stafaKhaled/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1370-count-number-of-nice-subarrays](https://github.com/M0stafaKhaled/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/M0stafaKhaled/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/M0stafaKhaled/Leetcode/tree/master/0721-accounts-merge) |
 | [0800-letter-case-permutation](https://github.com/M0stafaKhaled/Leetcode/tree/master/0800-letter-case-permutation) |
 | [1032-satisfiability-of-equality-equations](https://github.com/M0stafaKhaled/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/M0stafaKhaled/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3617-find-the-original-typed-string-i](https://github.com/M0stafaKhaled/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Union Find
 |  |
