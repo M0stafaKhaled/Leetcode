@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/M0stafaKhaled/Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/M0stafaKhaled/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/M0stafaKhaled/Leetcode/tree/master/0091-decode-ways) |
+| [0131-palindrome-partitioning](https://github.com/M0stafaKhaled/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/M0stafaKhaled/Leetcode/tree/master/0139-word-break) |
 | [0227-basic-calculator-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0474-ones-and-zeroes](https://github.com/M0stafaKhaled/Leetcode/tree/master/0474-ones-and-zeroes) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/M0stafaKhaled/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/M0stafaKhaled/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/M0stafaKhaled/Leetcode/tree/master/0139-word-break) |
 | [0221-maximal-square](https://github.com/M0stafaKhaled/Leetcode/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/M0stafaKhaled/Leetcode/tree/master/0322-coin-change) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/M0stafaKhaled/Leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/M0stafaKhaled/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/M0stafaKhaled/Leetcode/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/M0stafaKhaled/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0800-letter-case-permutation](https://github.com/M0stafaKhaled/Leetcode/tree/master/0800-letter-case-permutation) |
 ## Trie
 |  |
