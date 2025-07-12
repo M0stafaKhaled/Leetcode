@@ -22,7 +22,6 @@ public:
         for (int i = l; i < s.size(); i++) {
             d += s[i];
             if (is_valid(s, l, i)) {
-                cout<<d<<endl ; 
                 cur.push_back(d);
                 solve(s, i+1,r);
                 cur.pop_back();
