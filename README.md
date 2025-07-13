@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/M0stafaKhaled/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0721-accounts-merge](https://github.com/M0stafaKhaled/Leetcode/tree/master/0721-accounts-merge) |
 | [1032-satisfiability-of-equality-equations](https://github.com/M0stafaKhaled/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/M0stafaKhaled/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/M0stafaKhaled/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/M0stafaKhaled/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/M0stafaKhaled/Leetcode/tree/master/0721-accounts-merge) |
 | [0922-possible-bipartition](https://github.com/M0stafaKhaled/Leetcode/tree/master/0922-possible-bipartition) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/M0stafaKhaled/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/M0stafaKhaled/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/M0stafaKhaled/Leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1275-validate-binary-tree-nodes](https://github.com/M0stafaKhaled/Leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/M0stafaKhaled/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/M0stafaKhaled/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/M0stafaKhaled/Leetcode/tree/master/0130-surrounded-regions) |
 | [0221-maximal-square](https://github.com/M0stafaKhaled/Leetcode/tree/master/0221-maximal-square) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/M0stafaKhaled/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/M0stafaKhaled/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Linked List
 |  |
