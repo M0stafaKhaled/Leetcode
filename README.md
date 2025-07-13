@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/M0stafaKhaled/Leetcode/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/M0stafaKhaled/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/M0stafaKhaled/Leetcode/tree/master/0322-coin-change) |
+| [0403-frog-jump](https://github.com/M0stafaKhaled/Leetcode/tree/master/0403-frog-jump) |
 | [0474-ones-and-zeroes](https://github.com/M0stafaKhaled/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0594-longest-harmonious-subsequence](https://github.com/M0stafaKhaled/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0721-accounts-merge](https://github.com/M0stafaKhaled/Leetcode/tree/master/0721-accounts-merge) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/M0stafaKhaled/Leetcode/tree/master/0139-word-break) |
 | [0221-maximal-square](https://github.com/M0stafaKhaled/Leetcode/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/M0stafaKhaled/Leetcode/tree/master/0322-coin-change) |
+| [0403-frog-jump](https://github.com/M0stafaKhaled/Leetcode/tree/master/0403-frog-jump) |
 | [0474-ones-and-zeroes](https://github.com/M0stafaKhaled/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/M0stafaKhaled/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/M0stafaKhaled/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
