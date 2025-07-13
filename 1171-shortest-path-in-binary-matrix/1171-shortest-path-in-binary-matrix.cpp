@@ -1,7 +1,7 @@
 class Solution {
 public:
     long long  db[101][101][207] ;
-    bool vist[100][100] ;
+   
     bool isvalid(vector<vector<int>>& grid , int x , int y)
     {
         if(x>=grid.size() || x<0 || y<0 || y>= grid[0].size() || grid[x][y] ==1 ) return 0; 
