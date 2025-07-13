@@ -3,25 +3,20 @@ public:
     int matchPlayersAndTrainers(vector<int>& players, vector<int>& trainers) {
 
         sort(players.begin(), players.end());
+        sort(trainers.begin(), trainers.end());
         int ans = 0;
-        priority_queue<int, vector<int>, greater<int>> pq;
-        for (int i = 0; i < trainers.size(); i++) {
-
-            pq.push(trainers[i]);
-        }
-
+        int j = 0;
         for (int i = 0; i < players.size(); i++) {
-
-            if(pq.empty()) return ans ; 
-
-            while(pq.size() && players[i] > pq.top()) pq.pop() ; 
-
-            if(pq.empty()) return ans ; 
-
+            if (j == trainers.size())
+                return ans;
+            while (j < trainers.size() && players[i] > trainers[j])
+                j++;
+            if (j >= trainers.size())
+                return ans;
+            j++;
             ans++;
-            pq.pop() ; 
         }
 
-        return ans ; 
+        return ans;
     }
 };
