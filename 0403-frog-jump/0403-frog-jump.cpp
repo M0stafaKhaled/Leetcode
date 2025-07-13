@@ -36,8 +36,8 @@ public:
 
         bool canCross(vector<int> & stones) {
             
-           // long long  md = stones[stones.size() -1];
-            db = vector<vector<long long >>(stones.size() , vector<long long >(3000 , -1)) ;  
+        
+            db = vector<vector<long long >>(stones.size() , vector<long long >(2003 , -1)) ;  
            return solve(stones , 0 , 0) ; 
         }
     };
