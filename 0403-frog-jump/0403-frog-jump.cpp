@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<vector<long long>> db ; 
     bool solve(vector<int> & stones, int idx, int k) {
-     //   cout<<"idx " <<  idx << " "  << k <<endl ;  
+
         if (idx + 1 == stones.size())
             return true;
         int cur = stones[idx];
@@ -11,7 +11,7 @@ public:
         for (int i = idx + 1; i < stones.size(); i++) {
             int next = stones[i];
           
-        
+            if(cur + k +1 <next) break;
             if (cur + (k) == next) {
                 ans = ans || solve(stones, i, k);
             } 
