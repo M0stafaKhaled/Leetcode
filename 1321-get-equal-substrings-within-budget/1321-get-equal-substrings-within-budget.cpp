@@ -6,17 +6,16 @@ public:
         int cost = 0;
         int j = 0;
         for (int i = 0; i < s.size(); i++) {
-            cost += abs(s[i] - t[i]);
-            cur++;
-            while (i >= j && cost > maxCost) {
-                cost -= abs(s[j] - t[j]);
+           cost+= abs(s[i] - t[i]);
+
+            while(i>=j && cost > maxCost)
+            {
+                cost-= abs(s[j] - t[j]);
                 j++;
-                cur--;
             }
-            if (maxCost >= cost)
-                ans = max(ans, cur);
+           ans = max(ans , (i-j)+1 );
         }
 
-        return ans;
+        return ans ; 
     }
 };
