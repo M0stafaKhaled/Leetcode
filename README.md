@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/M0stafaKhaled/Leetcode/tree/master/0403-frog-jump) |
 | [0474-ones-and-zeroes](https://github.com/M0stafaKhaled/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0594-longest-harmonious-subsequence](https://github.com/M0stafaKhaled/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/M0stafaKhaled/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0721-accounts-merge](https://github.com/M0stafaKhaled/Leetcode/tree/master/0721-accounts-merge) |
 | [1032-satisfiability-of-equality-equations](https://github.com/M0stafaKhaled/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/M0stafaKhaled/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/M0stafaKhaled/Leetcode/tree/master/0403-frog-jump) |
 | [0474-ones-and-zeroes](https://github.com/M0stafaKhaled/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/M0stafaKhaled/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/M0stafaKhaled/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/M0stafaKhaled/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/M0stafaKhaled/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Design
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/M0stafaKhaled/Leetcode/tree/master/0078-subsets) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/M0stafaKhaled/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0795-k-th-symbol-in-grammar](https://github.com/M0stafaKhaled/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0800-letter-case-permutation](https://github.com/M0stafaKhaled/Leetcode/tree/master/0800-letter-case-permutation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/M0stafaKhaled/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/M0stafaKhaled/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/M0stafaKhaled/Leetcode/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/M0stafaKhaled/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/M0stafaKhaled/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0800-letter-case-permutation](https://github.com/M0stafaKhaled/Leetcode/tree/master/0800-letter-case-permutation) |
 ## Trie
 |  |
@@ -250,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/M0stafaKhaled/Leetcode/tree/master/0139-word-break) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/M0stafaKhaled/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Greedy
 |  |
 | ------- |
@@ -270,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1321-get-equal-substrings-within-budget](https://github.com/M0stafaKhaled/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/M0stafaKhaled/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/M0stafaKhaled/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
