@@ -2,24 +2,22 @@
  * @param {integer} init
  * @return { increment: Function, decrement: Function, reset: Function }
  */
-var d = 0;
-var r = 0;
-var createCounter = function (init) {
-    d = init;
-    r = init;
-    return {
 
+
+var createCounter = function (init) {
+    const r = init ; 
+    return {
         increment: function () {
-            d++;
-            return d;
+            init++;
+            return init;
         },
         decrement: function () {
-            d--;
-            return d;
+            init--;
+            return init;
         },
         reset: function () {
-            d = r;
-            return d;
+            init = r;
+            return init;
         },
 
 
