@@ -41,6 +41,7 @@ public:
         for (; i < s.size(); i++) {
             if (ans >= s.size() - i)
                 return ans;
+            if(s[i] == ')') continue ; 
             ans = max(solve(s, i), ans);
         }
         return ans;
