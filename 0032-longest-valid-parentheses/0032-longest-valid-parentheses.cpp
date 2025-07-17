@@ -1,14 +1,11 @@
 class Solution {
 public:
-    int db[30001];
+   // int db[30001];
     int solve(string& s, int i) {
         if (i >= s.size())
             return 0;
-
-        // leave
         int ans = 0;
-        if (db[i] != -1)
-            return db[i];
+        
         if (s[i] == ')')
             return 0;
         ans = 0;
@@ -21,7 +18,7 @@ public:
 
             } else {
                 if (start == 0) {
-                    return db[i] = ans;
+                    return ans;
                 }
 
                 start--;
@@ -32,10 +29,10 @@ public:
             }
         }
 
-        return db[i] = ans;
+       return ans ; 
     }
     int longestValidParentheses(string s) {
-        memset(db, -1, sizeof db);
+       // memset(db, -1, sizeof db);
         //  cout<<s.size() <<endl ;
         int i = 0;
         while (i < s.size() && s[i] == ')')
