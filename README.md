@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/M0stafaKhaled/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/M0stafaKhaled/Leetcode/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/M0stafaKhaled/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2573-remove-nodes-from-linked-list](https://github.com/M0stafaKhaled/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Stack
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/M0stafaKhaled/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/M0stafaKhaled/Leetcode/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/M0stafaKhaled/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Binary Search
 |  |
