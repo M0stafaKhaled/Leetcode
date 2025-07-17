@@ -22,7 +22,6 @@ public:
                 continue;
             }
             st.push(cur);
-            cout << cur << endl;
         }
 
         if (st.empty())
