@@ -29,10 +29,7 @@ public:
             cur++;
             if (cur == pos) {
                 start = node->next;
-                if(start)
-                {
-                    cout<<start->val <<endl ; 
-                }
+               
                 node->next = nullptr;
                 break;
             }
