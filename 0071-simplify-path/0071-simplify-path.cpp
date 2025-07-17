@@ -1,9 +1,7 @@
 class Solution {
 public:
     string simplifyPath(string path) {
-
-        stack<string> st;
-
+        vector<string> st;
         for (int i = 0; i < path.size(); i++) {
             string cur = "";
             cur += path[i];
@@ -18,26 +16,21 @@ public:
                 continue;
             if (cur == "/..") {
                 if (st.size())
-                    st.pop();
+                    st.pop_back();
                 continue;
             }
-            st.push(cur);
+            st.push_back(cur);
         }
 
         if (st.empty())
             return "/";
 
-        stack<string> st2;
-
-        while (st.size()) {
-            st2.push(st.top());
-            st.pop();
-        }
         string ans = "";
-        while (st2.size()) {
-            ans += st2.top();
-            st2.pop();
+
+        for (int i = 0; i < st.size(); i++) {
+            ans += st[i];
         }
+
         return ans;
     }
 };
