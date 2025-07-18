@@ -64,11 +64,7 @@ void dfs(TreeNode* node, string& res) {
         }
         int j =0 ; 
         TreeNode * cur  =  build(arr , j) ;
-         
-        for(int i =0 ; i<arr.size() ; i++)
-        {
-            cout<<arr[i] << " " ;
-        }
+        
         return  cur ; 
     }
 };
