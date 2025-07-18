@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0319-bulb-switcher](https://github.com/M0stafaKhaled/Leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/M0stafaKhaled/Leetcode/tree/master/0326-power-of-three) |
 | [0390-elimination-game](https://github.com/M0stafaKhaled/Leetcode/tree/master/0390-elimination-game) |
 | [0795-k-th-symbol-in-grammar](https://github.com/M0stafaKhaled/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
@@ -364,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/M0stafaKhaled/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0284-peeking-iterator](https://github.com/M0stafaKhaled/Leetcode/tree/master/0284-peeking-iterator) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/M0stafaKhaled/Leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
