@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/M0stafaKhaled/Leetcode/tree/master/0130-surrounded-regions) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/M0stafaKhaled/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/M0stafaKhaled/Leetcode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/M0stafaKhaled/Leetcode/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/M0stafaKhaled/Leetcode/tree/master/0721-accounts-merge) |
@@ -114,12 +115,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/M0stafaKhaled/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/M0stafaKhaled/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/M0stafaKhaled/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1275-validate-binary-tree-nodes](https://github.com/M0stafaKhaled/Leetcode/tree/master/1275-validate-binary-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/M0stafaKhaled/Leetcode/tree/master/0130-surrounded-regions) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/M0stafaKhaled/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0721-accounts-merge](https://github.com/M0stafaKhaled/Leetcode/tree/master/0721-accounts-merge) |
 | [0922-possible-bipartition](https://github.com/M0stafaKhaled/Leetcode/tree/master/0922-possible-bipartition) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/M0stafaKhaled/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/M0stafaKhaled/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/M0stafaKhaled/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/M0stafaKhaled/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1275-validate-binary-tree-nodes](https://github.com/M0stafaKhaled/Leetcode/tree/master/1275-validate-binary-tree-nodes) |
 ## String
@@ -146,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/M0stafaKhaled/Leetcode/tree/master/0139-word-break) |
 | [0227-basic-calculator-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/M0stafaKhaled/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0474-ones-and-zeroes](https://github.com/M0stafaKhaled/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/M0stafaKhaled/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0721-accounts-merge](https://github.com/M0stafaKhaled/Leetcode/tree/master/0721-accounts-merge) |
@@ -263,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/M0stafaKhaled/Leetcode/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/M0stafaKhaled/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0284-peeking-iterator](https://github.com/M0stafaKhaled/Leetcode/tree/master/0284-peeking-iterator) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/M0stafaKhaled/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0460-lfu-cache](https://github.com/M0stafaKhaled/Leetcode/tree/master/0460-lfu-cache) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/M0stafaKhaled/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Topological Sort
