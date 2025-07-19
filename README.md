@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/M0stafaKhaled/Leetcode/tree/master/0016-3sum-closest) |
 | [0046-permutations](https://github.com/M0stafaKhaled/Leetcode/tree/master/0046-permutations) |
 | [0064-minimum-path-sum](https://github.com/M0stafaKhaled/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/M0stafaKhaled/Leetcode/tree/master/0078-subsets) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/M0stafaKhaled/Leetcode/tree/master/0016-3sum-closest) |
 | [0594-longest-harmonious-subsequence](https://github.com/M0stafaKhaled/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0721-accounts-merge](https://github.com/M0stafaKhaled/Leetcode/tree/master/0721-accounts-merge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/M0stafaKhaled/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/M0stafaKhaled/Leetcode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/M0stafaKhaled/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/M0stafaKhaled/Leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
