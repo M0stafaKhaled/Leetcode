@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/M0stafaKhaled/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0721-accounts-merge](https://github.com/M0stafaKhaled/Leetcode/tree/master/0721-accounts-merge) |
 | [0912-random-pick-with-weight](https://github.com/M0stafaKhaled/Leetcode/tree/master/0912-random-pick-with-weight) |
+| [1022-unique-paths-iii](https://github.com/M0stafaKhaled/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1032-satisfiability-of-equality-equations](https://github.com/M0stafaKhaled/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1034-subarrays-with-k-different-integers](https://github.com/M0stafaKhaled/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/M0stafaKhaled/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/M0stafaKhaled/Leetcode/tree/master/0130-surrounded-regions) |
 | [0221-maximal-square](https://github.com/M0stafaKhaled/Leetcode/tree/master/0221-maximal-square) |
 | [0542-01-matrix](https://github.com/M0stafaKhaled/Leetcode/tree/master/0542-01-matrix) |
+| [1022-unique-paths-iii](https://github.com/M0stafaKhaled/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/M0stafaKhaled/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/M0stafaKhaled/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Linked List
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/M0stafaKhaled/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0795-k-th-symbol-in-grammar](https://github.com/M0stafaKhaled/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0800-letter-case-permutation](https://github.com/M0stafaKhaled/Leetcode/tree/master/0800-letter-case-permutation) |
+| [1022-unique-paths-iii](https://github.com/M0stafaKhaled/Leetcode/tree/master/1022-unique-paths-iii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/M0stafaKhaled/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Backtracking
 |  |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/M0stafaKhaled/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/M0stafaKhaled/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0800-letter-case-permutation](https://github.com/M0stafaKhaled/Leetcode/tree/master/0800-letter-case-permutation) |
+| [1022-unique-paths-iii](https://github.com/M0stafaKhaled/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1160-letter-tile-possibilities](https://github.com/M0stafaKhaled/Leetcode/tree/master/1160-letter-tile-possibilities) |
 ## Trie
 |  |
