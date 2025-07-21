@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/M0stafaKhaled/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/M0stafaKhaled/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/M0stafaKhaled/Leetcode/tree/master/0044-wildcard-matching) |
 | [0071-simplify-path](https://github.com/M0stafaKhaled/Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/M0stafaKhaled/Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/M0stafaKhaled/Leetcode/tree/master/0076-minimum-window-substring) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/M0stafaKhaled/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/M0stafaKhaled/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/M0stafaKhaled/Leetcode/tree/master/0044-wildcard-matching) |
 | [0326-power-of-three](https://github.com/M0stafaKhaled/Leetcode/tree/master/0326-power-of-three) |
 | [0390-elimination-game](https://github.com/M0stafaKhaled/Leetcode/tree/master/0390-elimination-game) |
 | [0795-k-th-symbol-in-grammar](https://github.com/M0stafaKhaled/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/M0stafaKhaled/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/M0stafaKhaled/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/M0stafaKhaled/Leetcode/tree/master/0044-wildcard-matching) |
 | [0064-minimum-path-sum](https://github.com/M0stafaKhaled/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/M0stafaKhaled/Leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/M0stafaKhaled/Leetcode/tree/master/0091-decode-ways) |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/M0stafaKhaled/Leetcode/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/M0stafaKhaled/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Prefix Sum
