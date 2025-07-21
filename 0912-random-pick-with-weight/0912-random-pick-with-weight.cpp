@@ -4,13 +4,12 @@ public:
   
     int sz;
     int arr[10000];
-   int arr2[10000] ; 
     Solution(vector<int>& w) {
         sz = w.size();
         for (int i = 0; i < w.size(); i++) {
             sum += w[i];
             arr[i] =sum ;
-            arr2[i] = w[i] ;  
+          
            
         }
 
@@ -22,7 +21,7 @@ public:
         
         for(int i =0 ; i<sz ; i++)
         {
-            if(arr[i] > randomNum) return i ;
+            if(arr[i] >= randomNum) return i ;
         }
         return 0;
     }
