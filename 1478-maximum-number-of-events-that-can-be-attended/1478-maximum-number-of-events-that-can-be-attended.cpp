@@ -10,7 +10,7 @@ public:
         priority_queue<int, vector<int>, greater<int>> pq;
         int idx = 0;
       //  cout<<end<<endl ; 
-        for (int i = 1;  pq.size() || idx<events.size() ; i++) {
+        for (int i = start;  pq.size() || idx<events.size() ; i++) {
 
             while (idx < events.size() && events[idx][0] <= i) {
               //  cout<<"pushed: "  << events[idx][1] << endl ; 
@@ -35,20 +35,3 @@ public:
     }
 };
 
-// int a1 = events[i][0];
-// int a2 = events[i][1];
-// pq.push(a2);
-// cout << "a1 " << a1 << " a2 " << a2 << " start " << start << endl;
-// while (i + 1 < events.size() && events[i + 1][0] == a1) {
-//     pq.push(events[i + 1][1]);
-//     i++;
-// }
-
-// while (pq.size()) {
-//     if (pq.top() < day) {
-//         ans++;
-//         day++;
-//     }
-//     pq.pop();
-// }
-// day++;
