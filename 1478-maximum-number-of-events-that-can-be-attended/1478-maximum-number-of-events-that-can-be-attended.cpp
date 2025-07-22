@@ -9,23 +9,23 @@ public:
         int day = events[0][0];
         priority_queue<int, vector<int>, greater<int>> pq;
         int idx = 0;
-        cout<<end<<endl ; 
+      //  cout<<end<<endl ; 
         for (int i = 1;  pq.size() || idx<events.size() ; i++) {
 
             while (idx < events.size() && events[idx][0] <= i) {
-                cout<<"pushed: "  << events[idx][1] << endl ; 
+              //  cout<<"pushed: "  << events[idx][1] << endl ; 
                 pq.push(events[idx][1]);
                 idx++;
             }
 
             while (pq.size() && pq.top() < i)
              {
-                 cout<<"poped: "  << pq.top() << endl ; 
+              //   cout<<"poped: "  << pq.top() << endl ; 
                    pq.pop();
              }
 
             if (pq.size() && pq.top() >= i) {
-                cout<<"poped2: "  << pq.top() << "i " << i  << endl ; 
+              //  cout<<"poped2: "  << pq.top() << "i " << i  << endl ; 
                 pq.pop();
                 ans++;
             }
