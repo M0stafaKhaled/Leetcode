@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-get-equal-substrings-within-budget](https://github.com/M0stafaKhaled/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/M0stafaKhaled/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/M0stafaKhaled/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/M0stafaKhaled/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/M0stafaKhaled/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [3396-valid-word](https://github.com/M0stafaKhaled/Leetcode/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/M0stafaKhaled/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/M0stafaKhaled/Leetcode/tree/master/0071-simplify-path) |
 | [0173-binary-search-tree-iterator](https://github.com/M0stafaKhaled/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0227-basic-calculator-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/M0stafaKhaled/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2573-remove-nodes-from-linked-list](https://github.com/M0stafaKhaled/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/M0stafaKhaled/Leetcode/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/M0stafaKhaled/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/M0stafaKhaled/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/M0stafaKhaled/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Prefix Sum
 |  |
