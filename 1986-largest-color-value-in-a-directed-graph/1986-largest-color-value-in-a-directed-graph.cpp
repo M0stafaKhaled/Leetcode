@@ -7,7 +7,7 @@ public:
     string s;
 
     void dfs(vector<vector<int>>& graph, int node) {
-        cout<<node <<endl; 
+       
         if (instack[node] == 1) {
             valid = false;
             return;
