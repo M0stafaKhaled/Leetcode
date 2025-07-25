@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/M0stafaKhaled/Leetcode/tree/master/0460-lfu-cache) |
 | [0594-longest-harmonious-subsequence](https://github.com/M0stafaKhaled/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0721-accounts-merge](https://github.com/M0stafaKhaled/Leetcode/tree/master/0721-accounts-merge) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/M0stafaKhaled/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/M0stafaKhaled/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/M0stafaKhaled/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/M0stafaKhaled/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0399-evaluate-division](https://github.com/M0stafaKhaled/Leetcode/tree/master/0399-evaluate-division) |
 | [0922-possible-bipartition](https://github.com/M0stafaKhaled/Leetcode/tree/master/0922-possible-bipartition) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/M0stafaKhaled/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/M0stafaKhaled/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/M0stafaKhaled/Leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1275-validate-binary-tree-nodes](https://github.com/M0stafaKhaled/Leetcode/tree/master/1275-validate-binary-tree-nodes) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/M0stafaKhaled/Leetcode/tree/master/0399-evaluate-division) |
 | [0721-accounts-merge](https://github.com/M0stafaKhaled/Leetcode/tree/master/0721-accounts-merge) |
 | [0922-possible-bipartition](https://github.com/M0stafaKhaled/Leetcode/tree/master/0922-possible-bipartition) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/M0stafaKhaled/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/M0stafaKhaled/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1275-validate-binary-tree-nodes](https://github.com/M0stafaKhaled/Leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/M0stafaKhaled/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/M0stafaKhaled/Leetcode/tree/master/0399-evaluate-division) |
 | [0721-accounts-merge](https://github.com/M0stafaKhaled/Leetcode/tree/master/0721-accounts-merge) |
 | [0922-possible-bipartition](https://github.com/M0stafaKhaled/Leetcode/tree/master/0922-possible-bipartition) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/M0stafaKhaled/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/M0stafaKhaled/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1275-validate-binary-tree-nodes](https://github.com/M0stafaKhaled/Leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/M0stafaKhaled/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
