@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int ans[26];
+  
     vector<int> instack;
     int db[100000][26];
     bool valid = true;
