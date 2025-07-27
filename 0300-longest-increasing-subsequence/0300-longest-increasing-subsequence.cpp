@@ -25,7 +25,6 @@ public:
         for(int i =0 ; i<nums.size() ; i++)
         {
             int cur = solve(nums, i)+1;
-            cout<<cur<<endl ; 
             ans = max(ans ,  cur);
         }
         return  ans;
