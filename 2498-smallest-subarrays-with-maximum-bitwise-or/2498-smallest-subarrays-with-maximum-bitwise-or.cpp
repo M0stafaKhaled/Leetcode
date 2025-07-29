@@ -36,13 +36,8 @@ public:
                         bit1 |= (1 << j);
                 }
 
-                if (end == nums.size() - 1 || bit1 == suf[i]) {
-
-                    end++;
-                    break;
-                }
+               
                 end++;
-                cur = nums[end];
             }
 
             start = i;
