@@ -25,7 +25,6 @@ public:
 
                     arr[j] -= (nums[start] >> j) & 1;
                 }
-                //  cout << "test 2: " << bit1 << endl;
             }
             while (end < nums.size() && bit1 != suf[i]) {
                 int cur = nums[end];
@@ -33,18 +32,12 @@ public:
 
                     arr[j] += ((cur >> j)) & 1;
 
-                    //  cout<<((cur >> j) & 1) <<" ";
                     if (arr[j] >= 1)
                         bit1 |= (1 << j);
                 }
-                if (bit1 == suf[i]) {
 
-                    //  ans[i] = end - i + 1;
-                    end++;
-                    break;
-                }
-                if (end == nums.size() - 1) {
-                    
+                if (end == nums.size() - 1 || bit1 == suf[i]) {
+
                     end++;
                     break;
                 }
@@ -52,10 +45,8 @@ public:
                 cur = nums[end];
             }
 
-            cout << "test1: " << end << " " << bit1 << endl;
-
             start = i;
-            ans[i] = max((end - i) , 1);
+            ans[i] = max((end - i), 1);
         }
 
         return ans;
