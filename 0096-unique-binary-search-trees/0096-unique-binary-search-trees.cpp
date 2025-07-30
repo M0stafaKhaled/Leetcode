@@ -4,9 +4,9 @@ public:
         vector<int> db(n+2);
         db[0] = 1;
         db[1] = 1;
-        db[2] = 2;
+        // db[2] = 2;
 
-        for (int i = 3; i <=n; i++) {
+        for (int i = 2; i <=n; i++) {
             for (int j = 1; j <=i; j++) {
                     db[i] += db[j - 1] * db[i - j];
             }
