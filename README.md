@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/M0stafaKhaled/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0173-binary-search-tree-iterator](https://github.com/M0stafaKhaled/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/M0stafaKhaled/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/M0stafaKhaled/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/M0stafaKhaled/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0173-binary-search-tree-iterator](https://github.com/M0stafaKhaled/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/M0stafaKhaled/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/M0stafaKhaled/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/M0stafaKhaled/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0227-basic-calculator-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0319-bulb-switcher](https://github.com/M0stafaKhaled/Leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/M0stafaKhaled/Leetcode/tree/master/0326-power-of-three) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/M0stafaKhaled/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/M0stafaKhaled/Leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/M0stafaKhaled/Leetcode/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/M0stafaKhaled/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/M0stafaKhaled/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/M0stafaKhaled/Leetcode/tree/master/0120-triangle) |
@@ -460,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/M0stafaKhaled/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0173-binary-search-tree-iterator](https://github.com/M0stafaKhaled/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 ## Iterator
 |  |
