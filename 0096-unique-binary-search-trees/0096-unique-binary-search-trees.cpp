@@ -8,7 +8,6 @@ public:
 
         for (int i = 3; i <=n; i++) {
             for (int j = 1; j <=i; j++) {
-                if (i >= j)
                     db[i] += db[j - 1] * db[i - j];
             }
         }
