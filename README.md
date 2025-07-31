@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0319-bulb-switcher](https://github.com/M0stafaKhaled/Leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/M0stafaKhaled/Leetcode/tree/master/0326-power-of-three) |
+| [0357-count-numbers-with-unique-digits](https://github.com/M0stafaKhaled/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0390-elimination-game](https://github.com/M0stafaKhaled/Leetcode/tree/master/0390-elimination-game) |
 | [0464-can-i-win](https://github.com/M0stafaKhaled/Leetcode/tree/master/0464-can-i-win) |
 | [0795-k-th-symbol-in-grammar](https://github.com/M0stafaKhaled/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/M0stafaKhaled/Leetcode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/M0stafaKhaled/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/M0stafaKhaled/Leetcode/tree/master/0322-coin-change) |
+| [0357-count-numbers-with-unique-digits](https://github.com/M0stafaKhaled/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0403-frog-jump](https://github.com/M0stafaKhaled/Leetcode/tree/master/0403-frog-jump) |
 | [0464-can-i-win](https://github.com/M0stafaKhaled/Leetcode/tree/master/0464-can-i-win) |
 | [0474-ones-and-zeroes](https://github.com/M0stafaKhaled/Leetcode/tree/master/0474-ones-and-zeroes) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/M0stafaKhaled/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/M0stafaKhaled/Leetcode/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/M0stafaKhaled/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0357-count-numbers-with-unique-digits](https://github.com/M0stafaKhaled/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/M0stafaKhaled/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0800-letter-case-permutation](https://github.com/M0stafaKhaled/Leetcode/tree/master/0800-letter-case-permutation) |
 | [1022-unique-paths-iii](https://github.com/M0stafaKhaled/Leetcode/tree/master/1022-unique-paths-iii) |
