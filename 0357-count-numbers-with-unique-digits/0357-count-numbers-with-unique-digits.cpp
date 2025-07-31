@@ -1,18 +1,18 @@
 class Solution {
 public:
-    int solve(int i, vector<bool>& vist, int n) {
+    int solve(int i, int vist, int n) {
         if (n == 0)
             return 1;
         int ans = 0;
         for (int j = 0; j <= 9; j++) {
             if (i == 0 && j == 0)
                 continue;
-            if (vist[j])
+            if (vist&(1<<j))
                 continue;
-
-            vist[j] = 1;
+           
+            vist |= (1<<j) ; 
             ans += solve(i + 1, vist, n - 1);
-            vist[j] = 0;
+            vist ^= (1<<j);
         }
         return ans;
     }
@@ -21,8 +21,8 @@ public:
 
         int ans = 0;
         for (int i = 0; i <=n; i++) {
-            vector<bool> vist(9);
-            ans += solve(0, vist, i);
+          
+            ans += solve(0, 0, i);
         }
         return ans;
     }
