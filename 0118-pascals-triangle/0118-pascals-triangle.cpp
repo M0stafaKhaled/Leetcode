@@ -1,6 +1,5 @@
 class Solution {
 public:
-    vector<vector<int>> ans ; 
      vector<vector<int>> solve(int idx)
     {
         if(idx == 1) 
