@@ -9,10 +9,8 @@ public:
         for (int i = 0; i < arr.size(); i++) {
             unordered_set<int> cur;
             cur.insert(arr[i]);
-            for (auto e : prev) {
-                for (auto c : cur) {
-                    cur.insert(c | e);
-                }
+           for (int val : prev) {
+                cur.insert(val | arr[i]);
             }
 
             prev = cur;
