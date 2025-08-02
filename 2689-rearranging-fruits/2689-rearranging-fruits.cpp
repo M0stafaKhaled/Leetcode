@@ -13,7 +13,6 @@ public:
                 minf, basket2[i], basket1[i]});
             map1[basket1[i]]++;
             map2[basket2[i]]++;
-            cout << basket1[i] << " " << basket2[i] << " " << endl;
         }
         long long ans = 0;
         for (auto& e : map1) {
@@ -43,10 +42,9 @@ public:
         for (int i = 0; i < cur.size(); i++) {
 
             pq.push(cur[i]);
-            cout << cur[i] << " ";
         }
         int rf = cur.size() / 2;
-       
+
         while (rf--) {
             long long vb = 1L * 2 * minf;
             ans += min(pq.top(), vb);
