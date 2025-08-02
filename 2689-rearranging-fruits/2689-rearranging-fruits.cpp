@@ -3,8 +3,7 @@ public:
     long long minCost(vector<int>& basket1, vector<int>& basket2) {
         int valid = 0;
         int minf = INT_MAX;
-        sort(basket1.begin(), basket1.end());
-        sort(basket2.begin(), basket2.end());
+       
         unordered_map<int, int> map1, map2;
         vector<int> cur;
         for (int i = 0; i < basket2.size(); i++) {
