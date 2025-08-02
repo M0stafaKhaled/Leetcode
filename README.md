@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/M0stafaKhaled/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3291-find-if-array-can-be-sorted](https://github.com/M0stafaKhaled/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3318-maximum-number-of-operations-with-the-same-score-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/3318-maximum-number-of-operations-with-the-same-score-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/M0stafaKhaled/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/M0stafaKhaled/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/M0stafaKhaled/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/M0stafaKhaled/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/M0stafaKhaled/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [3318-maximum-number-of-operations-with-the-same-score-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/3318-maximum-number-of-operations-with-the-same-score-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/M0stafaKhaled/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Design
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/M0stafaKhaled/Leetcode/tree/master/0464-can-i-win) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/M0stafaKhaled/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/M0stafaKhaled/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [3318-maximum-number-of-operations-with-the-same-score-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/3318-maximum-number-of-operations-with-the-same-score-ii) |
 ## Greedy
 |  |
 | ------- |
