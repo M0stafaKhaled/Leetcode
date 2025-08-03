@@ -34,7 +34,7 @@ public:
     int maxTotalFruits(vector<vector<int>>& fruits, int startPos, int k) {
         max_f = fruits[fruits.size() - 1][0];
         int n = max(fruits.back()[0], startPos + k) + 3;
-        cout << n << endl;
+
         pre = vector<int>(n + 1);
 
         for (int i = 0; i < fruits.size(); i++) {
@@ -49,7 +49,6 @@ public:
         int temp = max(0, max_f - startPos);
         if (left + startPos > max_f) {
 
-            cout << temp << endl;
             right = max(0, k - temp) / 2;
             left = temp;
         }
