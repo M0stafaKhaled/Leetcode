@@ -15,17 +15,14 @@ public:
             int top = q.front();
             q.pop();
             int v = arr[top];
-            for (int i = map[v].size() -1; i >=0 ; i--) {
+            for (int i = map[v].size() - 1; i >= 0; i--) {
                 int cur = map[v][i];
-                if (cur == -1)
-                    continue;
-                map[v][i] = -1;
 
                 if (de[cur] > de[top] + 1) {
                     de[cur] = de[top] + 1;
                     q.push(cur);
                 }
-                map[v].pop_back() ; 
+                map[v].pop_back();
             }
             if (top - 1 >= 0 && de[top - 1] > de[top] + 1) {
                 de[top - 1] = de[top] + 1;
