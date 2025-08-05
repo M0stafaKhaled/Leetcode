@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/M0stafaKhaled/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/M0stafaKhaled/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-fruits-into-baskets-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/M0stafaKhaled/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/M0stafaKhaled/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/M0stafaKhaled/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3790-fruits-into-baskets-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Bitmask
 |  |
 | ------- |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/M0stafaKhaled/Leetcode/tree/master/0054-spiral-matrix) |
 | [1184-car-pooling](https://github.com/M0stafaKhaled/Leetcode/tree/master/1184-car-pooling) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/M0stafaKhaled/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
+| [3790-fruits-into-baskets-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -525,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/M0stafaKhaled/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [1511-count-number-of-teams](https://github.com/M0stafaKhaled/Leetcode/tree/master/1511-count-number-of-teams) |
+| [3790-fruits-into-baskets-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -547,4 +551,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/M0stafaKhaled/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/M0stafaKhaled/Leetcode/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
