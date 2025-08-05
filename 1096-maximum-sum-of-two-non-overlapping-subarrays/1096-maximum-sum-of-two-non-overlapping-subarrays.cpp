@@ -25,16 +25,13 @@ public:
              db[i] = f ; 
         }
     
-        for(int i =0 ; i<nums.size() ; i++)
-        {
-            cout<<db[i] << " " ; 
-        }
+       
 
     
 
         return f;
     }
-    int solve2(vector<int>nums, int sz, int sec, vector<int>& nums2) {
+    int solve2(vector<int>&nums, int sz, int sec, vector<int>& nums2) {
         int sum = 0;
         for (int i = 0; i < sz; i++) {
 
