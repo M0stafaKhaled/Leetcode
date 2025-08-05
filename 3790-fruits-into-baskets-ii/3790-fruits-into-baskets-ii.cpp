@@ -1,8 +1,6 @@
 class Solution {
 public:
     int numOfUnplacedFruits(vector<int>& fruits, vector<int>& baskets) {
-        priority_queue<int> pq;
-        pq.push(baskets[0]);
         int idx = 1;
         int ans = baskets.size();
         unordered_set<int> st;
