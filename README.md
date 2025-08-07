@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/M0stafaKhaled/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/M0stafaKhaled/Leetcode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/M0stafaKhaled/Leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1122-longest-duplicate-substring](https://github.com/M0stafaKhaled/Leetcode/tree/master/1122-longest-duplicate-substring) |
 | [1321-get-equal-substrings-within-budget](https://github.com/M0stafaKhaled/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/M0stafaKhaled/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/M0stafaKhaled/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0800-letter-case-permutation](https://github.com/M0stafaKhaled/Leetcode/tree/master/0800-letter-case-permutation) |
 | [1032-satisfiability-of-equality-equations](https://github.com/M0stafaKhaled/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/M0stafaKhaled/Leetcode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
+| [1122-longest-duplicate-substring](https://github.com/M0stafaKhaled/Leetcode/tree/master/1122-longest-duplicate-substring) |
 | [1160-letter-tile-possibilities](https://github.com/M0stafaKhaled/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/M0stafaKhaled/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1321-get-equal-substrings-within-budget](https://github.com/M0stafaKhaled/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/M0stafaKhaled/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/M0stafaKhaled/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0912-random-pick-with-weight](https://github.com/M0stafaKhaled/Leetcode/tree/master/0912-random-pick-with-weight) |
+| [1122-longest-duplicate-substring](https://github.com/M0stafaKhaled/Leetcode/tree/master/1122-longest-duplicate-substring) |
 | [1321-get-equal-substrings-within-budget](https://github.com/M0stafaKhaled/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/M0stafaKhaled/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/M0stafaKhaled/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -546,10 +549,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/M0stafaKhaled/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1122-longest-duplicate-substring](https://github.com/M0stafaKhaled/Leetcode/tree/master/1122-longest-duplicate-substring) |
 ## Hash Function
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/M0stafaKhaled/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1122-longest-duplicate-substring](https://github.com/M0stafaKhaled/Leetcode/tree/master/1122-longest-duplicate-substring) |
 ## Randomized
 |  |
 | ------- |
@@ -569,4 +574,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/M0stafaKhaled/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
+## Suffix Array
+|  |
+| ------- |
+| [1122-longest-duplicate-substring](https://github.com/M0stafaKhaled/Leetcode/tree/master/1122-longest-duplicate-substring) |
 <!---LeetCode Topics End-->
