@@ -14,7 +14,7 @@ public:
                       solve(a - 50, b - 50) + solve(a - 25, b - 75));
     }
     double soupServings(int n) {
-        if (n >= 5000)
+        if (n >= 4900)
             return 1;
         //memset(db , -1 , sizeof db) ; 
         return solve(n, n);
