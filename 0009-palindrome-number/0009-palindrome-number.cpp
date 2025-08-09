@@ -11,11 +11,10 @@ public:
         int x1 = x;
         int x2 = x;
         while (start >= end) {
-            cout << start << " " << end << endl;
+
             int a = x1 / start;
             int b = x2 % end;
 
-            cout << a << " " << b << endl;
             x1 = (x % start);
             x2 = x2 / 10;
             start /= 10;
