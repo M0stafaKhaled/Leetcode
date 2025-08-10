@@ -1,18 +1,11 @@
 class Solution {
 public:
-    bool is_po(int n) {
-        int count = 0;
-        while (n > 0) {
-            count += n & 1;
-            n >>= 1;
-        }
-
-        return count == 1;
-    }
+    
     bool reorderedPowerOf2(int n) {
         unordered_set<string> st;
-        for (long long i = 1; i <= 1e9; i *= 2) {
-            string cur = to_string(i);
+        for (int i = 0; i < 31; i++) {
+            int power = 1 << i;
+            string cur = to_string(power);
             sort(cur.begin(), cur.end());
             st.insert(cur);
         }
