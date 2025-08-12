@@ -519,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0577-employee-bonus](https://github.com/M0stafaKhaled/Leetcode/tree/master/0577-employee-bonus) |
 | [1182-game-play-analysis-iv](https://github.com/M0stafaKhaled/Leetcode/tree/master/1182-game-play-analysis-iv) |
+| [1245-user-activity-for-the-past-30-days-i](https://github.com/M0stafaKhaled/Leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/M0stafaKhaled/Leetcode/tree/master/1317-monthly-transactions-i) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/M0stafaKhaled/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
