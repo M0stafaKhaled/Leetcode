@@ -535,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1278-product-price-at-a-given-date](https://github.com/M0stafaKhaled/Leetcode/tree/master/1278-product-price-at-a-given-date) |
 | [1292-immediate-food-delivery-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/M0stafaKhaled/Leetcode/tree/master/1317-monthly-transactions-i) |
+| [1452-restaurant-growth](https://github.com/M0stafaKhaled/Leetcode/tree/master/1452-restaurant-growth) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/M0stafaKhaled/Leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1480-movie-rating](https://github.com/M0stafaKhaled/Leetcode/tree/master/1480-movie-rating) |
 | [1625-group-sold-products-by-the-date](https://github.com/M0stafaKhaled/Leetcode/tree/master/1625-group-sold-products-by-the-date) |
