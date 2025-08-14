@@ -9,7 +9,6 @@ public:
             if (og)
                 re *= 10;
         }
-        cout << re << " " << log10(re) << " " << log10(num);
         return ceil(log10(re)) == ceil(log10(num));
     }
 };
