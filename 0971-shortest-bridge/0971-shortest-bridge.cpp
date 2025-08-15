@@ -8,7 +8,6 @@ public:
         for (int i = 0; i < grid.size(); i++) {
             bool f = false;
             for (int j = 0; j < grid[i].size(); j++) {
-
                 if (grid[i][j] == 1) {
                     costs[i][j] = 0;
                     q.push({i, j});
@@ -29,14 +28,9 @@ public:
                 if (dx < 0 || dx >= grid.size() || dy >= grid[0].size() ||
                     dy < 0)
                     continue;
-                if (grid[dx][dy] == 1) {
-                    // cout << costs[x][y] << " " << costs[dx][dy] << " ";
-                    // cout << dx << " " << dy << endl;
-                }
-                int co = grid[dx][dy] == 0;
-                if (costs[dx][dy] > costs[x][y] + co) {
-                    //  cout<<dx <<" " << dy <<endl ;
-                    costs[dx][dy] = costs[x][y] + co;
+               
+                if (costs[dx][dy] > costs[x][y] + (grid[dx][dy] == 0)) {
+                    costs[dx][dy] = costs[x][y] + (grid[dx][dy] == 0);
                     q.push({dx, dy});
                 }
             }
