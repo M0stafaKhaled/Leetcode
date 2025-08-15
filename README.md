@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/M0stafaKhaled/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/M0stafaKhaled/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1447-jump-game-iv](https://github.com/M0stafaKhaled/Leetcode/tree/master/1447-jump-game-iv) |
+| [1464-reduce-array-size-to-the-half](https://github.com/M0stafaKhaled/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/M0stafaKhaled/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1511-count-number-of-teams](https://github.com/M0stafaKhaled/Leetcode/tree/master/1511-count-number-of-teams) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/M0stafaKhaled/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1447-jump-game-iv](https://github.com/M0stafaKhaled/Leetcode/tree/master/1447-jump-game-iv) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/M0stafaKhaled/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1464-reduce-array-size-to-the-half](https://github.com/M0stafaKhaled/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/M0stafaKhaled/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/M0stafaKhaled/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/M0stafaKhaled/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/M0stafaKhaled/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1184-car-pooling](https://github.com/M0stafaKhaled/Leetcode/tree/master/1184-car-pooling) |
+| [1464-reduce-array-size-to-the-half](https://github.com/M0stafaKhaled/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/M0stafaKhaled/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2213-find-all-people-with-secret](https://github.com/M0stafaKhaled/Leetcode/tree/master/2213-find-all-people-with-secret) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/M0stafaKhaled/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/M0stafaKhaled/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/M0stafaKhaled/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1184-car-pooling](https://github.com/M0stafaKhaled/Leetcode/tree/master/1184-car-pooling) |
+| [1464-reduce-array-size-to-the-half](https://github.com/M0stafaKhaled/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/M0stafaKhaled/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/M0stafaKhaled/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Monotonic Queue
@@ -474,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/M0stafaKhaled/Leetcode/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1464-reduce-array-size-to-the-half](https://github.com/M0stafaKhaled/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/M0stafaKhaled/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/M0stafaKhaled/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/M0stafaKhaled/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
