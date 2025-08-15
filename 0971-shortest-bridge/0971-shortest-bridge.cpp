@@ -42,22 +42,13 @@ public:
             }
         }
 
-        for (int i = 0; i < grid.size(); i++) {
-            for (int j = 0; j < grid[i].size(); j++) {
-                cout << grid[i][j] << " ";
-            }
-            cout << endl;
-        }
-        cout << endl;
         int ans = 0;
         for (int i = 0; i < grid.size(); i++) {
             for (int j = 0; j < grid[i].size(); j++) {
                 if (grid[i][j] == 1) {
                     ans = max(ans, costs[i][j]);
                 }
-                cout << costs[i][j] << " ";
             }
-            cout << endl;
         }
 
         return ans;
