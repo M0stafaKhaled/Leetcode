@@ -1,12 +1,7 @@
 class Solution {
 public:
     vector<int> findErrorNums(vector<int>& nums) {
-
-        int sum = 0;
         int n = nums.size();
-        int sh = (n * (n + 1)) / 2;
-        int x = 0;
-        int num = 0;
         int all = 0;
         for (int i = 1; i <= n; i++) {
             all ^= i ^ nums[i - 1];
