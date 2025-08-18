@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/M0stafaKhaled/Leetcode/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/M0stafaKhaled/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/M0stafaKhaled/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0380-insert-delete-getrandom-o1](https://github.com/M0stafaKhaled/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/M0stafaKhaled/Leetcode/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/M0stafaKhaled/Leetcode/tree/master/0403-frog-jump) |
 | [0474-ones-and-zeroes](https://github.com/M0stafaKhaled/Leetcode/tree/master/0474-ones-and-zeroes) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/M0stafaKhaled/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/M0stafaKhaled/Leetcode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/M0stafaKhaled/Leetcode/tree/master/0146-lru-cache) |
+| [0380-insert-delete-getrandom-o1](https://github.com/M0stafaKhaled/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/M0stafaKhaled/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/M0stafaKhaled/Leetcode/tree/master/0460-lfu-cache) |
 | [0594-longest-harmonious-subsequence](https://github.com/M0stafaKhaled/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/M0stafaKhaled/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/M0stafaKhaled/Leetcode/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/M0stafaKhaled/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0380-insert-delete-getrandom-o1](https://github.com/M0stafaKhaled/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0390-elimination-game](https://github.com/M0stafaKhaled/Leetcode/tree/master/0390-elimination-game) |
 | [0464-can-i-win](https://github.com/M0stafaKhaled/Leetcode/tree/master/0464-can-i-win) |
 | [0795-k-th-symbol-in-grammar](https://github.com/M0stafaKhaled/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0284-peeking-iterator](https://github.com/M0stafaKhaled/Leetcode/tree/master/0284-peeking-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/M0stafaKhaled/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0307-range-sum-query-mutable](https://github.com/M0stafaKhaled/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/M0stafaKhaled/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/M0stafaKhaled/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/M0stafaKhaled/Leetcode/tree/master/0460-lfu-cache) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/M0stafaKhaled/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -629,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Randomized
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/M0stafaKhaled/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0912-random-pick-with-weight](https://github.com/M0stafaKhaled/Leetcode/tree/master/0912-random-pick-with-weight) |
 ## Game Theory
 |  |
