@@ -24,18 +24,6 @@ public:
         return db[i] = ans;
     }
 
-    int print(vector<int>& nums, int i) {
-        if (i == nums.size())
-            return 0;
-        int m = 0;
-        for (int j = i; j < nums.size(); j++) {
-            if (solve(nums, j) == db[i])
-                m++;
-            // else if(solve(nums,j) == db[i] ) m++;
-        }
-
-        return m;
-    }
     int findNumberOfLIS(vector<int>& nums) {
 
         int ans = 0;
@@ -49,9 +37,9 @@ public:
         }
         for (int i = 0; i < nums.size(); i++) {
             ans = max(ans, solve(nums, i));
-           // length[i] = 1;
+            // length[i] = 1;
         }
-        cout << ans << endl;
+
         int d = 0;
         for (int i = 0; i < nums.size(); i++) {
             if (length[i] == ans) {
