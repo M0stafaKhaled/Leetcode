@@ -12,12 +12,12 @@ public:
         double  f = sqrt(a+b) ; 
         pq.push({f , i}) ;
     }
-    vector<vector<int>> ans ; 
+    vector<vector<int>> ans(k); 
     while(pq.size() && k--)
     {
         auto[x ,y] = pq.top() ; 
         pq.pop() ; 
-        ans.push_back({points[y][0] ,points[y][1]}) ; 
+        ans[k]={points[y][0] ,points[y][1]} ; 
     }
         return ans;
     }
