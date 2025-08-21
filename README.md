@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/M0stafaKhaled/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/M0stafaKhaled/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/M0stafaKhaled/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/M0stafaKhaled/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/M0stafaKhaled/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-jump-game-vii](https://github.com/M0stafaKhaled/Leetcode/tree/master/2001-jump-game-vii) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/M0stafaKhaled/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/M0stafaKhaled/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/M0stafaKhaled/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
