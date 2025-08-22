@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/M0stafaKhaled/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/M0stafaKhaled/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/M0stafaKhaled/Leetcode/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
+| [2491-smallest-even-multiple](https://github.com/M0stafaKhaled/Leetcode/tree/master/2491-smallest-even-multiple) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -702,4 +703,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/M0stafaKhaled/Leetcode/tree/master/2083-three-divisors) |
+| [2491-smallest-even-multiple](https://github.com/M0stafaKhaled/Leetcode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
