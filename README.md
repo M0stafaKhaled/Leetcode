@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/M0stafaKhaled/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/M0stafaKhaled/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/M0stafaKhaled/Leetcode/tree/master/1448-maximum-69-number) |
+| [2083-three-divisors](https://github.com/M0stafaKhaled/Leetcode/tree/master/2083-three-divisors) |
 | [2238-a-number-after-a-double-reversal](https://github.com/M0stafaKhaled/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/M0stafaKhaled/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/M0stafaKhaled/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
@@ -669,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/M0stafaKhaled/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [2083-three-divisors](https://github.com/M0stafaKhaled/Leetcode/tree/master/2083-three-divisors) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/M0stafaKhaled/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/M0stafaKhaled/Leetcode/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 ## Ordered Set
@@ -696,4 +698,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/M0stafaKhaled/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Number Theory
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/M0stafaKhaled/Leetcode/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
