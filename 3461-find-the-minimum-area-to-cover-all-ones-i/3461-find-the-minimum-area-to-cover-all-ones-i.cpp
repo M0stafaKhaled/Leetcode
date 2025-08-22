@@ -19,9 +19,7 @@ public:
         }
         int w = (r2 - r1) + 1;
         int h = (c2 - c1) + 1;
-        cout << w << " " << h << endl;
-        cout << r1 << " " << r2 << endl;
-        cout << c1 << " " << c2 << endl;
+       
         return h * w;
     }
 };
