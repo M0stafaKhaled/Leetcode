@@ -19,7 +19,6 @@ public:
         }
 
         for (int i = 0; i < seats.size(); i++) {
-            cout << nexts[i] << " ";
             if (seats[i] == 0) {
                 int a = i - prev;
                 int b = nexts[i] - i;
