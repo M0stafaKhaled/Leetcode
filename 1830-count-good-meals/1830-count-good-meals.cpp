@@ -8,7 +8,6 @@ public:
         pow[1] = 2;
         for (int i = 2; i < 32; i++) {
             pow[i] = 2LL * pow[i - 1];
-            cout << pow[i] << endl;
         }
         long long ans = 0;
 
