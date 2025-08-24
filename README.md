@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/M0stafaKhaled/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1073-number-of-enclaves](https://github.com/M0stafaKhaled/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/M0stafaKhaled/Leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1138-grumpy-bookstore-owner](https://github.com/M0stafaKhaled/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/M0stafaKhaled/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/M0stafaKhaled/Leetcode/tree/master/1184-car-pooling) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/M0stafaKhaled/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/M0stafaKhaled/Leetcode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/M0stafaKhaled/Leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1122-longest-duplicate-substring](https://github.com/M0stafaKhaled/Leetcode/tree/master/1122-longest-duplicate-substring) |
+| [1138-grumpy-bookstore-owner](https://github.com/M0stafaKhaled/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1321-get-equal-substrings-within-budget](https://github.com/M0stafaKhaled/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/M0stafaKhaled/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/M0stafaKhaled/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
