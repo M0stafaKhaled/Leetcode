@@ -18,7 +18,7 @@ public:
         }
         for (int i = 0; i < de.size(); i++) {
             map[de[i]]--;
-            for (int j = 0; j < 32; j++) {
+            for (int j = 0; j < 22; j++) {
                 long long cur = pow[j] - de[i];
                 if (cur < 0)
                     continue;
