@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2298-count-integers-with-even-digit-sum](https://github.com/M0stafaKhaled/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/M0stafaKhaled/Leetcode/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2491-smallest-even-multiple](https://github.com/M0stafaKhaled/Leetcode/tree/master/2491-smallest-even-multiple) |
+| [2955-account-balance-after-rounded-purchase](https://github.com/M0stafaKhaled/Leetcode/tree/master/2955-account-balance-after-rounded-purchase) |
 ## Dynamic Programming
 |  |
 | ------- |
