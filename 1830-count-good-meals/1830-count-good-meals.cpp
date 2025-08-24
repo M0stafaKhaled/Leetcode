@@ -1,12 +1,12 @@
 class Solution {
 public:
-    long long pow[32];
+    long long pow[22];
     const int mod = 1e9 + 7;
     int countPairs(vector<int>& de) {
 
         pow[0] = 1;
         pow[1] = 2;
-        for (int i = 2; i < 32; i++) {
+        for (int i = 2; i < 22; i++) {
             pow[i] = 2LL * pow[i - 1];
         }
         long long ans = 0;
