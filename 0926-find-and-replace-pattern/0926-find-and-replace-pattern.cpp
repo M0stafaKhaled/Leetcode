@@ -40,7 +40,7 @@ public:
                 if ((pattern[i] - 'a') == cur)
                     d++;
             }
-            cout << d << " " << word.size();
+
             if (d == word.size())
                 ans.push_back(word);
         }
