@@ -19,10 +19,10 @@ public:
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
 
         for (int i = 0; i < matrix.size(); i++) {
-            if (find(matrix[i], target))
-                return 1;
             if (matrix[i][0] > target)
                 return 0;
+            if (find(matrix[i], target))
+                return 1;
         }
 
         return 0;
