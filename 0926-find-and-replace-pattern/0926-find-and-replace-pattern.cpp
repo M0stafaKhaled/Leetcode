@@ -1,6 +1,5 @@
 class Solution {
 public:
- 
     vector<string> findAndReplacePattern(vector<string>& words,
                                          string pattern) {
         unordered_set<char> st;
@@ -8,20 +7,11 @@ public:
         for (int i = 0; i < pattern.size(); i++) {
             st.insert(pattern[i]);
         }
-       
 
         vector<string> ans;
         for (auto& word : words) {
-            unordered_set<char> st2;
-            unordered_map<int, int> map, map2;
-            for (int i = 0; i < word.size(); i++) {
-                st2.insert(word[i]);
-                map[word[i] - 'a']++;
-            }
 
-            if (st2.size() != st.size())
-                continue;
-
+            unordered_map<int, int> map2;
             int d = 0;
             for (int i = 0; i < word.size() && i < pattern.size(); i++) {
                 int cur = word[i] - 'a';
@@ -35,7 +25,7 @@ public:
                     d++;
             }
 
-            if (d == word.size())
+            if (d == word.size() && map2.size() == st.size())
                 ans.push_back(word);
         }
 
