@@ -1,20 +1,14 @@
 class Solution {
 public:
-    int arr[26];
+ 
     vector<string> findAndReplacePattern(vector<string>& words,
                                          string pattern) {
         unordered_set<char> st;
 
         for (int i = 0; i < pattern.size(); i++) {
-            arr[pattern[i] - 'a']++;
             st.insert(pattern[i]);
         }
-        vector<int> freq;
-        for (int i = 0; i < 26; i++) {
-            if (arr[i] != 0) {
-                freq.push_back(arr[i]);
-            }
-        }
+       
 
         vector<string> ans;
         for (auto& word : words) {
