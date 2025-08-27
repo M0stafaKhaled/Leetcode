@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/M0stafaKhaled/Leetcode/tree/master/0139-word-break) |
 | [0221-maximal-square](https://github.com/M0stafaKhaled/Leetcode/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/M0stafaKhaled/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/M0stafaKhaled/Leetcode/tree/master/0260-single-number-iii) |
 | [0284-peeking-iterator](https://github.com/M0stafaKhaled/Leetcode/tree/master/0284-peeking-iterator) |
 | [0300-longest-increasing-subsequence](https://github.com/M0stafaKhaled/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/M0stafaKhaled/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/M0stafaKhaled/Leetcode/tree/master/0130-surrounded-regions) |
 | [0221-maximal-square](https://github.com/M0stafaKhaled/Leetcode/tree/master/0221-maximal-square) |
+| [0240-search-a-2d-matrix-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/M0stafaKhaled/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/M0stafaKhaled/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/M0stafaKhaled/Leetcode/tree/master/0542-01-matrix) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/M0stafaKhaled/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/M0stafaKhaled/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0713-subarray-product-less-than-k](https://github.com/M0stafaKhaled/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -726,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/M0stafaKhaled/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
 |  |
