@@ -16,14 +16,10 @@ public:
             else 
             {
                 int f =b+1 ;
-                int temp = b ;  
-                while(temp>0)
-                {
-                   temp-=(a+1); 
-                   if(temp<=0) ans+=a+1 ;
-                   else 
-                   ans+= a+1;
-                }
+                int temp = b/(a+1);
+                ans+=temp*(a+1) ; 
+                if(b%(a+1) != 0) ans+=a+1 ; 
+               
             } 
         }
         return ans ; 
