@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/M0stafaKhaled/Leetcode/tree/master/0016-3sum-closest) |
+| [0036-valid-sudoku](https://github.com/M0stafaKhaled/Leetcode/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/M0stafaKhaled/Leetcode/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/M0stafaKhaled/Leetcode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/M0stafaKhaled/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/M0stafaKhaled/Leetcode/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/M0stafaKhaled/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/M0stafaKhaled/Leetcode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/M0stafaKhaled/Leetcode/tree/master/0146-lru-cache) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/M0stafaKhaled/Leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/M0stafaKhaled/Leetcode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/M0stafaKhaled/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/M0stafaKhaled/Leetcode/tree/master/0130-surrounded-regions) |
