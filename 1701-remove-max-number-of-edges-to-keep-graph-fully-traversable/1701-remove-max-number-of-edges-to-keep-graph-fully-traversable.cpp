@@ -50,9 +50,9 @@ public:
             int c = edges[i][2];
             if (a == 3)
                 continue;
-            cout << a << " " << b << " " << c;
+
             if (dsu1.find(c) == dsu1.find(b) && a == 1) {
-                cout << "  herer1";
+
                 ans++;
             } else {
                 if (a == 1) {
@@ -62,14 +62,12 @@ public:
 
             if (dsu2.find(c) == dsu2.find(b) && a == 2) {
 
-                cout << "  herer2" << " ";
                 ans++;
             } else {
                 if (a == 2) {
                     dsu2.con(c, b);
                 }
             }
-            cout << endl;
         }
 
         for (int i = 2; i <= n; i++) {
