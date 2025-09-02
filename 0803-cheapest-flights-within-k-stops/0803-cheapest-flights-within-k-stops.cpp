@@ -34,7 +34,7 @@ public:
                 continue;
             paths[node] = path;
             for (int i = 0; i < graph[node].size(); i++) {
-                cout << "Test" << endl;
+
                 int ch = graph[node][i].first;
                 int f = graph[node][i].second;
 
