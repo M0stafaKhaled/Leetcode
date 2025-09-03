@@ -37,16 +37,8 @@ public:
         int end = 1e6;
         while (end >= start) {
             int mid = (end + start) / 2;
-            cout << mid << endl;
-
+        
             int d = solve(nums1, nums2, mid);
-
-            if (mid == 2) {
-                cout << "testd  " << d << endl;
-            }
-            // cout << d << " " << endl;
-            if (d == se) {
-            }
             if (d >= se) {
                 ans = mid;
                 end = mid - 1;
