@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/M0stafaKhaled/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1032-satisfiability-of-equality-equations](https://github.com/M0stafaKhaled/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1034-subarrays-with-k-different-integers](https://github.com/M0stafaKhaled/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/M0stafaKhaled/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/M0stafaKhaled/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/M0stafaKhaled/Leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1117-as-far-from-land-as-possible](https://github.com/M0stafaKhaled/Leetcode/tree/master/1117-as-far-from-land-as-possible) |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/M0stafaKhaled/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/M0stafaKhaled/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0912-random-pick-with-weight](https://github.com/M0stafaKhaled/Leetcode/tree/master/0912-random-pick-with-weight) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/M0stafaKhaled/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1122-longest-duplicate-substring](https://github.com/M0stafaKhaled/Leetcode/tree/master/1122-longest-duplicate-substring) |
 | [1321-get-equal-substrings-within-budget](https://github.com/M0stafaKhaled/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/M0stafaKhaled/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
