@@ -3,8 +3,7 @@ public:
     int dir[5] = {1, 0, -1, 0, 1};
 
     // top down left right
-    int dfs(vector<vector<int>>& grid, vector<bool>& ans,
-            set<pair<int, int>>& st, int x, int y) {
+    int dfs(vector<vector<int>>& grid, int x, int y) {
 
         grid[x][y] = 2;
         int cur = 0;
@@ -29,7 +28,7 @@ public:
                 cur++;
             }
             if (grid[dx][dy] == 0) {
-                int r = dfs(grid, ans, st, dx, dy);
+                int r = dfs(grid, dx, dy);
                 if (r == 4)
                     cur++;
             }
@@ -44,9 +43,8 @@ public:
         for (int i = 0; i < grid.size(); i++) {
             for (int j = 0; j < grid[i].size(); j++) {
                 if (grid[i][j] == 0) {
-                    vector<bool> tr(4, 0);
-                    set<pair<int, int>> st;
-                    int ends = dfs(grid, tr, st, i, j);
+
+                    int ends = dfs(grid, i, j);
 
                     if (ends == 4)
                         ans++;
