@@ -10,17 +10,12 @@ public:
             m1[s[i]]++;
             m2[t[i]]++;
         }
-        // for (auto e : m2) {
-        //     if (m1[e.first] > e.second) {
-        //         ans += m1[e.first] - e.second;
-        //     }
-        // }
+      
 
         for (auto e : m1) {
             if (m2[e.first] < e.second) {
                 ans += abs(e.second - m2[e.first]);
             }
-            cout << e.first << " " << e.second << " " << m2[e.first] << endl;
         }
 
         return ans;
