@@ -13,14 +13,10 @@ public:
 
             if (dx < 0 || dy < 0 || dx >= grid.size() || dy >= grid[0].size()) {
                 grid[x][y] = 3;
-                return 0;
+                continue ; 
             }
-            if (grid[dx][dy] == 3) {
-
-                continue;
-            }
-            if (grid[dx][dy] == 2) {
-                cur++;
+            if (grid[dx][dy] == 3 || grid[dx][dy] == 2) {
+                cur += grid[dx][dy] == 2;
                 continue;
             }
 
@@ -28,8 +24,7 @@ public:
                 cur++;
             }
             if (grid[dx][dy] == 0) {
-                int r = dfs(grid, dx, dy);
-                if (r == 4)
+                if (dfs(grid, dx, dy) == 4)
                     cur++;
             }
         }
@@ -43,12 +38,8 @@ public:
         for (int i = 0; i < grid.size(); i++) {
             for (int j = 0; j < grid[i].size(); j++) {
                 if (grid[i][j] == 0) {
-
-                    int ends = dfs(grid, i, j);
-
-                    if (ends == 4)
+                    if (dfs(grid, i, j) == 4)
                         ans++;
-                    //  ans += cur;
                 }
             }
         }
