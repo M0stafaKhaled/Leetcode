@@ -4,8 +4,7 @@ public:
 
         unordered_map<char, int> m1, m2;
         int ans = 0;
-        cout << s << endl;
-        cout << t << endl;
+       
         for (int i = 0; i < s.size(); i++) {
             m1[s[i]]++;
             m2[t[i]]++;
