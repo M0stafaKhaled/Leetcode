@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/M0stafaKhaled/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/M0stafaKhaled/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-jump-game-vii](https://github.com/M0stafaKhaled/Leetcode/tree/master/2001-jump-game-vii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/M0stafaKhaled/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/M0stafaKhaled/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/M0stafaKhaled/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2904-sorting-three-groups](https://github.com/M0stafaKhaled/Leetcode/tree/master/2904-sorting-three-groups) |
 | [3318-maximum-number-of-operations-with-the-same-score-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/3318-maximum-number-of-operations-with-the-same-score-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/M0stafaKhaled/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -713,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/M0stafaKhaled/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1184-car-pooling](https://github.com/M0stafaKhaled/Leetcode/tree/master/1184-car-pooling) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/M0stafaKhaled/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/M0stafaKhaled/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/M0stafaKhaled/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3790-fruits-into-baskets-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Doubly-Linked List
