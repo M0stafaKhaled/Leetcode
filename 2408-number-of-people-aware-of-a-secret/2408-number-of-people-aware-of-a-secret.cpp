@@ -14,19 +14,12 @@ public:
                 map2[e.first + 1] = e.second;
                 if (e.first + 1 >= delay) {
                     map2[0] = (e.second + map2[0]) % mod;
-                    //    cout<<"test " << endl ;
                 }
-                // cout << e.first << " " << e.second << endl;
             }
 
             map = map2;
-            // cout << "N: " << i << endl;
-            // for (auto e : map) {
-            //     cout << e.first << " " << e.second << endl;
-            // }
-            //   break ;
         }
-        long long ans = 0;
+        int ans = 0;
 
         for (auto e : map) {
 
