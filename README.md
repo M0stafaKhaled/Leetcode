@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/M0stafaKhaled/Leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2664-maximize-greatness-of-an-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2689-rearranging-fruits](https://github.com/M0stafaKhaled/Leetcode/tree/master/2689-rearranging-fruits) |
+| [2887-sort-vowels-in-a-string](https://github.com/M0stafaKhaled/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/M0stafaKhaled/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/M0stafaKhaled/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Counting
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-jump-game-vii](https://github.com/M0stafaKhaled/Leetcode/tree/master/2001-jump-game-vii) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/M0stafaKhaled/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/M0stafaKhaled/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/M0stafaKhaled/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/M0stafaKhaled/Leetcode/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/M0stafaKhaled/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Union Find
