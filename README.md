@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/M0stafaKhaled/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/M0stafaKhaled/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/M0stafaKhaled/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/M0stafaKhaled/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/M0stafaKhaled/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/M0stafaKhaled/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-gcd-sort-of-an-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/2125-gcd-sort-of-an-array) |
 | [2213-find-all-people-with-secret](https://github.com/M0stafaKhaled/Leetcode/tree/master/2213-find-all-people-with-secret) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/M0stafaKhaled/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/M0stafaKhaled/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/M0stafaKhaled/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/M0stafaKhaled/Leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2664-maximize-greatness-of-an-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/2664-maximize-greatness-of-an-array) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/M0stafaKhaled/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/M0stafaKhaled/Leetcode/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/M0stafaKhaled/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/M0stafaKhaled/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -621,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-reduce-array-size-to-the-half](https://github.com/M0stafaKhaled/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/M0stafaKhaled/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/M0stafaKhaled/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/M0stafaKhaled/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/M0stafaKhaled/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/M0stafaKhaled/Leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2664-maximize-greatness-of-an-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/2664-maximize-greatness-of-an-array) |
