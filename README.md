@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/M0stafaKhaled/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2001-jump-game-vii](https://github.com/M0stafaKhaled/Leetcode/tree/master/2001-jump-game-vii) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/M0stafaKhaled/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/M0stafaKhaled/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/M0stafaKhaled/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/M0stafaKhaled/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/M0stafaKhaled/Leetcode/tree/master/3396-valid-word) |
