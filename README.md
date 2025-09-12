@@ -491,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/M0stafaKhaled/Leetcode/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2491-smallest-even-multiple](https://github.com/M0stafaKhaled/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/M0stafaKhaled/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2748-calculate-delayed-arrival-time](https://github.com/M0stafaKhaled/Leetcode/tree/master/2748-calculate-delayed-arrival-time) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/M0stafaKhaled/Leetcode/tree/master/2955-account-balance-after-rounded-purchase) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/M0stafaKhaled/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3462-vowels-game-in-a-string](https://github.com/M0stafaKhaled/Leetcode/tree/master/3462-vowels-game-in-a-string) |
