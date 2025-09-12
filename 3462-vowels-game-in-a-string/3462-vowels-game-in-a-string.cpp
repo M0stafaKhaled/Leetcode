@@ -13,8 +13,6 @@ public:
 
         if (count == 0)
             return 0;
-        if (count % 2 == 1)
-            return 1;
 
         return 1;
     }
