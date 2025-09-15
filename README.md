@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1064-smallest-integer-divisible-by-k](https://github.com/M0stafaKhaled/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/M0stafaKhaled/Leetcode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1160-letter-tile-possibilities](https://github.com/M0stafaKhaled/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/M0stafaKhaled/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/M0stafaKhaled/Leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1370-count-number-of-nice-subarrays](https://github.com/M0stafaKhaled/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1447-jump-game-iv](https://github.com/M0stafaKhaled/Leetcode/tree/master/1447-jump-game-iv) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/M0stafaKhaled/Leetcode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1122-longest-duplicate-substring](https://github.com/M0stafaKhaled/Leetcode/tree/master/1122-longest-duplicate-substring) |
 | [1160-letter-tile-possibilities](https://github.com/M0stafaKhaled/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/M0stafaKhaled/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/M0stafaKhaled/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1321-get-equal-substrings-within-budget](https://github.com/M0stafaKhaled/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/M0stafaKhaled/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
