@@ -11,7 +11,6 @@ public:
 
     int lcm(long long a, long long b) { return (a * b) / gcd(a, b); }
     vector<int> replaceNonCoprimes(vector<int>& nums) {
-        queue<int> q;
         vector<int> ans;
         stack<int> st;
         for (int i = 0; i < nums.size(); i++) {
@@ -26,7 +25,6 @@ public:
             while (gcd(a, b) > 1) {
 
                 if (st.size() >= 1) {
-                    // st.push(lcm(a, b));
                     int r = lcm(a, b);
                     a = st.top();
                     st.pop();
@@ -52,9 +50,9 @@ public:
 
         // if (st.size() == 1)
         //     return {st.top()};
-        cout << "test" << endl;
+
         while (st.size()) {
-            cout << st.top() << endl;
+
             if (st.size() == 1) {
                 ans.push_back(st.top());
                 reverse(ans.begin(), ans.end());
