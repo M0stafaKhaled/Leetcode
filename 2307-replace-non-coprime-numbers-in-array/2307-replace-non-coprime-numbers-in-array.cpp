@@ -9,7 +9,7 @@ public:
         return a;
     }
 
-    int lcm(long long a, long long b) { return (a * b) / gcd(a, b); }
+    int lcm(long long a, long long b, int gcd) { return (a * b) / gcd; }
     vector<int> replaceNonCoprimes(vector<int>& nums) {
         vector<int> ans;
         stack<int> st;
@@ -22,29 +22,30 @@ public:
             st.pop();
             int b = nums[i];
             bool f = false;
-            while (gcd(a, b) > 1) {
+            int z = gcd(a, b);
+            while (z > 1) {
 
                 if (st.size() >= 1) {
-                    int r = lcm(a, b);
+                    int r = lcm(a, b, z);
                     a = st.top();
                     st.pop();
                     b = r;
+                    z = gcd(a, b);
 
                 } else {
-                    b = lcm(a, b);
+                    b = lcm(a, b, z);
+                    z = gcd(a, b);
                     f = 1;
                     break;
                 }
 
                 f = 1;
             }
-            if (gcd(a, b) == 1) {
+            if (z == 1) {
                 st.push(a);
                 st.push(b);
             } else {
                 st.push(b);
-            }
-            if (!f) {
             }
         }
 
@@ -62,9 +63,10 @@ public:
             int a = st.top();
             st.pop();
             int b = st.top();
-            if (gcd(a, b) > 1) {
+            int z = gcd(a, b);
+            if (z > 1) {
                 st.pop();
-                st.push(lcm(a, b));
+                st.push(lcm(a, b, z));
             } else {
                 ans.push_back(a);
             }
