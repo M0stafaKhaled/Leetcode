@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/M0stafaKhaled/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/M0stafaKhaled/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/M0stafaKhaled/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2429-design-a-food-rating-system](https://github.com/M0stafaKhaled/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/M0stafaKhaled/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/M0stafaKhaled/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/M0stafaKhaled/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/M0stafaKhaled/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/M0stafaKhaled/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/M0stafaKhaled/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2429-design-a-food-rating-system](https://github.com/M0stafaKhaled/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/M0stafaKhaled/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2689-rearranging-fruits](https://github.com/M0stafaKhaled/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/M0stafaKhaled/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/M0stafaKhaled/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/M0stafaKhaled/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2429-design-a-food-rating-system](https://github.com/M0stafaKhaled/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/M0stafaKhaled/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/M0stafaKhaled/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3396-valid-word](https://github.com/M0stafaKhaled/Leetcode/tree/master/3396-valid-word) |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1479-construct-target-array-with-multiple-sums](https://github.com/M0stafaKhaled/Leetcode/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/M0stafaKhaled/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/M0stafaKhaled/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2429-design-a-food-rating-system](https://github.com/M0stafaKhaled/Leetcode/tree/master/2429-design-a-food-rating-system) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -571,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/M0stafaKhaled/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/M0stafaKhaled/Leetcode/tree/master/0460-lfu-cache) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/M0stafaKhaled/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2429-design-a-food-rating-system](https://github.com/M0stafaKhaled/Leetcode/tree/master/2429-design-a-food-rating-system) |
 ## Topological Sort
 |  |
 | ------- |
@@ -826,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2429-design-a-food-rating-system](https://github.com/M0stafaKhaled/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/M0stafaKhaled/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Suffix Array
