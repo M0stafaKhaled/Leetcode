@@ -26,7 +26,12 @@ public:
         st.insert({-newPriority, -taskId});
     }
 
-    void rmv(int taskId) { st.erase({-map2[taskId], -taskId}); }
+    void rmv(int taskId) {
+        st.erase({-map2[taskId], -taskId});
+
+        map2.erase(taskId);
+        map.erase(taskId);
+    }
 
     int execTop() {
         if (!st.empty()) {
