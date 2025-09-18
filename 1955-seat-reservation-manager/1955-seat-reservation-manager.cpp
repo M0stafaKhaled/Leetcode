@@ -1,7 +1,7 @@
 class SeatManager {
 public:
     set<int> av;
-    set<int> unv;
+    unordered_set<int> unv;
     SeatManager(int n) {
         for (int i = 1; i <= n; i++) {
             av.insert(i);
