@@ -1,7 +1,6 @@
 class SeatManager {
 public:
     set<int> av;
-    unordered_set<int> unv;
     SeatManager(int n) {
         for (int i = 1; i <= n; i++) {
             av.insert(i);
@@ -12,15 +11,10 @@ public:
 
         int cur = *av.begin();
         av.erase(av.begin());
-        unv.insert(cur);
         return cur;
     }
 
-    void unreserve(int seatNumber) {
-
-        unv.erase(seatNumber);
-        av.insert(seatNumber);
-    }
+    void unreserve(int seatNumber) { av.insert(seatNumber); }
 };
 
 /**
