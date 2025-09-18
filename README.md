@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/M0stafaKhaled/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2689-rearranging-fruits](https://github.com/M0stafaKhaled/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3678-design-task-manager](https://github.com/M0stafaKhaled/Leetcode/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/M0stafaKhaled/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/M0stafaKhaled/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/M0stafaKhaled/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/M0stafaKhaled/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2429-design-a-food-rating-system](https://github.com/M0stafaKhaled/Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/M0stafaKhaled/Leetcode/tree/master/3678-design-task-manager) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/M0stafaKhaled/Leetcode/tree/master/0460-lfu-cache) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/M0stafaKhaled/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/M0stafaKhaled/Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/M0stafaKhaled/Leetcode/tree/master/3678-design-task-manager) |
 ## Topological Sort
 |  |
 | ------- |
@@ -832,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/M0stafaKhaled/Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/M0stafaKhaled/Leetcode/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/M0stafaKhaled/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Suffix Array
