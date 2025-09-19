@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/M0stafaKhaled/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/M0stafaKhaled/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/M0stafaKhaled/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/M0stafaKhaled/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/M0stafaKhaled/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2429-design-a-food-rating-system](https://github.com/M0stafaKhaled/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/M0stafaKhaled/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/M0stafaKhaled/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/M0stafaKhaled/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/M0stafaKhaled/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/M0stafaKhaled/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/M0stafaKhaled/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Breadth-First Search
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/M0stafaKhaled/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2001-jump-game-vii](https://github.com/M0stafaKhaled/Leetcode/tree/master/2001-jump-game-vii) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/M0stafaKhaled/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/M0stafaKhaled/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/M0stafaKhaled/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/M0stafaKhaled/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/M0stafaKhaled/Leetcode/tree/master/2429-design-a-food-rating-system) |
