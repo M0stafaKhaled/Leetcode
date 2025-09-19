@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/M0stafaKhaled/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0721-accounts-merge](https://github.com/M0stafaKhaled/Leetcode/tree/master/0721-accounts-merge) |
 | [0797-rabbits-in-forest](https://github.com/M0stafaKhaled/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [0828-chalkboard-xor-game](https://github.com/M0stafaKhaled/Leetcode/tree/master/0828-chalkboard-xor-game) |
 | [0879-maximize-distance-to-closest-person](https://github.com/M0stafaKhaled/Leetcode/tree/master/0879-maximize-distance-to-closest-person) |
 | [0909-stone-game](https://github.com/M0stafaKhaled/Leetcode/tree/master/0909-stone-game) |
 | [0912-random-pick-with-weight](https://github.com/M0stafaKhaled/Leetcode/tree/master/0912-random-pick-with-weight) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0795-k-th-symbol-in-grammar](https://github.com/M0stafaKhaled/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0797-rabbits-in-forest](https://github.com/M0stafaKhaled/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/M0stafaKhaled/Leetcode/tree/master/0826-soup-servings) |
+| [0828-chalkboard-xor-game](https://github.com/M0stafaKhaled/Leetcode/tree/master/0828-chalkboard-xor-game) |
 | [0900-reordered-power-of-2](https://github.com/M0stafaKhaled/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0909-stone-game](https://github.com/M0stafaKhaled/Leetcode/tree/master/0909-stone-game) |
 | [0912-random-pick-with-weight](https://github.com/M0stafaKhaled/Leetcode/tree/master/0912-random-pick-with-weight) |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/M0stafaKhaled/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0795-k-th-symbol-in-grammar](https://github.com/M0stafaKhaled/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0800-letter-case-permutation](https://github.com/M0stafaKhaled/Leetcode/tree/master/0800-letter-case-permutation) |
+| [0828-chalkboard-xor-game](https://github.com/M0stafaKhaled/Leetcode/tree/master/0828-chalkboard-xor-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/M0stafaKhaled/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1022-unique-paths-iii](https://github.com/M0stafaKhaled/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/M0stafaKhaled/Leetcode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
@@ -798,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/M0stafaKhaled/Leetcode/tree/master/0319-bulb-switcher) |
+| [0828-chalkboard-xor-game](https://github.com/M0stafaKhaled/Leetcode/tree/master/0828-chalkboard-xor-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/M0stafaKhaled/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3462-vowels-game-in-a-string](https://github.com/M0stafaKhaled/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Binary Indexed Tree
@@ -836,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/M0stafaKhaled/Leetcode/tree/master/0464-can-i-win) |
+| [0828-chalkboard-xor-game](https://github.com/M0stafaKhaled/Leetcode/tree/master/0828-chalkboard-xor-game) |
 | [0909-stone-game](https://github.com/M0stafaKhaled/Leetcode/tree/master/0909-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/M0stafaKhaled/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/M0stafaKhaled/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
