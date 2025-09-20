@@ -12,7 +12,7 @@ using ordered_set = tree<
 class Router {
 public:
     int limit = 0;
-    unordered_map<int, ordered_set<pair<int,int>>> mp; // destination -> {(timestamp, source)}
+    unordered_map<int, ordered_set<pair<int,int>>> mp; 
     queue<array<int, 3>> q;
 
     Router(int memoryLimit) { limit = memoryLimit; }
