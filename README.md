@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2904-sorting-three-groups](https://github.com/M0stafaKhaled/Leetcode/tree/master/2904-sorting-three-groups) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/M0stafaKhaled/Leetcode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/M0stafaKhaled/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/M0stafaKhaled/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/M0stafaKhaled/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/M0stafaKhaled/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/M0stafaKhaled/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2689-rearranging-fruits](https://github.com/M0stafaKhaled/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/M0stafaKhaled/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3678-design-task-manager](https://github.com/M0stafaKhaled/Leetcode/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/M0stafaKhaled/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/M0stafaKhaled/Leetcode/tree/master/3797-design-spreadsheet) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/M0stafaKhaled/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/M0stafaKhaled/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/M0stafaKhaled/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/M0stafaKhaled/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/M0stafaKhaled/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Breadth-First Search
 |  |
