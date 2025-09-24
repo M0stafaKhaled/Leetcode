@@ -16,7 +16,7 @@ public:
                 t2 = t2 * 10;
                 t2 += v2[j++] - '0';
             }
-          //  cout << t1 << " " << t2 << endl;
+            //  cout << t1 << " " << t2 << endl;
             if (t1 == t2) {
                 i++;
                 j++;
