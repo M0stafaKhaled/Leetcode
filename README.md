@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/M0stafaKhaled/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/M0stafaKhaled/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/M0stafaKhaled/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/M0stafaKhaled/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/M0stafaKhaled/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/M0stafaKhaled/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/M0stafaKhaled/Leetcode/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2491-smallest-even-multiple](https://github.com/M0stafaKhaled/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/M0stafaKhaled/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -803,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/M0stafaKhaled/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1184-car-pooling](https://github.com/M0stafaKhaled/Leetcode/tree/master/1184-car-pooling) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/M0stafaKhaled/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/M0stafaKhaled/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/M0stafaKhaled/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3790-fruits-into-baskets-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -925,4 +928,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/M0stafaKhaled/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/M0stafaKhaled/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
