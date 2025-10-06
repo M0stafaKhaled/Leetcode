@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/M0stafaKhaled/Leetcode/tree/master/0016-3sum-closest) |
+| [0148-sort-list](https://github.com/M0stafaKhaled/Leetcode/tree/master/0148-sort-list) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/M0stafaKhaled/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0475-heaters](https://github.com/M0stafaKhaled/Leetcode/tree/master/0475-heaters) |
 | [0594-longest-harmonious-subsequence](https://github.com/M0stafaKhaled/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/M0stafaKhaled/Leetcode/tree/master/0086-partition-list) |
 | [0146-lru-cache](https://github.com/M0stafaKhaled/Leetcode/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/M0stafaKhaled/Leetcode/tree/master/0148-sort-list) |
 | [0382-linked-list-random-node](https://github.com/M0stafaKhaled/Leetcode/tree/master/0382-linked-list-random-node) |
 | [0432-all-oone-data-structure](https://github.com/M0stafaKhaled/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/M0stafaKhaled/Leetcode/tree/master/0460-lfu-cache) |
@@ -739,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/M0stafaKhaled/Leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/M0stafaKhaled/Leetcode/tree/master/0086-partition-list) |
+| [0148-sort-list](https://github.com/M0stafaKhaled/Leetcode/tree/master/0148-sort-list) |
 | [0165-compare-version-numbers](https://github.com/M0stafaKhaled/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/M0stafaKhaled/Leetcode/tree/master/0344-reverse-string) |
 | [0475-heaters](https://github.com/M0stafaKhaled/Leetcode/tree/master/0475-heaters) |
@@ -916,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/M0stafaKhaled/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/M0stafaKhaled/Leetcode/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/M0stafaKhaled/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
@@ -947,4 +951,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/M0stafaKhaled/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
