@@ -10,13 +10,12 @@ public:
                 ans.push_back(map2[i]);
             } else {
                 ans.push_back(words[i]);
-            }
-            if (!map[i])
                 sort(words[i].begin(), words[i].end());
+            }
 
             while (i + 1 < words.size()) {
                 map2[i + 1] = words[i + 1];
-                map[i + 1] = 1;
+    
                 sort(words[i + 1].begin(), words[i + 1].end());
                 if (words[i] == words[i + 1])
                     i++;
