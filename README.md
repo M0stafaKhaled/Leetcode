@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/M0stafaKhaled/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/M0stafaKhaled/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/M0stafaKhaled/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/M0stafaKhaled/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/M0stafaKhaled/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/M0stafaKhaled/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/M0stafaKhaled/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/M0stafaKhaled/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/M0stafaKhaled/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Counting
 |  |
 | ------- |
@@ -732,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/M0stafaKhaled/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/M0stafaKhaled/Leetcode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
 | [3026-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/3026-find-the-minimum-possible-sum-of-a-beautiful-array) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/M0stafaKhaled/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/M0stafaKhaled/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Prefix Sum
 |  |
