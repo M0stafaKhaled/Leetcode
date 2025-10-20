@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/M0stafaKhaled/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/M0stafaKhaled/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2125-gcd-sort-of-an-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/2125-gcd-sort-of-an-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/M0stafaKhaled/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/M0stafaKhaled/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/M0stafaKhaled/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/M0stafaKhaled/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/M0stafaKhaled/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2001-jump-game-vii](https://github.com/M0stafaKhaled/Leetcode/tree/master/2001-jump-game-vii) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/M0stafaKhaled/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/M0stafaKhaled/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/M0stafaKhaled/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/M0stafaKhaled/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/M0stafaKhaled/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -843,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/M0stafaKhaled/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1184-car-pooling](https://github.com/M0stafaKhaled/Leetcode/tree/master/1184-car-pooling) |
 | [1642-water-bottles](https://github.com/M0stafaKhaled/Leetcode/tree/master/1642-water-bottles) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/M0stafaKhaled/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/M0stafaKhaled/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/M0stafaKhaled/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
