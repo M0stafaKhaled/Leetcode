@@ -485,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/M0stafaKhaled/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/M0stafaKhaled/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/M0stafaKhaled/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/M0stafaKhaled/Leetcode/tree/master/0061-rotate-list) |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/M0stafaKhaled/Leetcode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/M0stafaKhaled/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/M0stafaKhaled/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/M0stafaKhaled/Leetcode/tree/master/0044-wildcard-matching) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/M0stafaKhaled/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/M0stafaKhaled/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/M0stafaKhaled/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/M0stafaKhaled/Leetcode/tree/master/0048-rotate-image) |
