@@ -8,7 +8,7 @@ public:
             int cur = 1 << i;
             if (cur - 1 >= n)
                 return cur - 1;
-            cout << cur - 1 << endl;
+            // cout << cur - 1 << endl;
         }
 
         return 1;
