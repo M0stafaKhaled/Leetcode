@@ -585,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/M0stafaKhaled/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/M0stafaKhaled/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/M0stafaKhaled/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -692,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/M0stafaKhaled/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/M0stafaKhaled/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3291-find-if-array-can-be-sorted](https://github.com/M0stafaKhaled/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/M0stafaKhaled/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Backtracking
 |  |
 | ------- |
