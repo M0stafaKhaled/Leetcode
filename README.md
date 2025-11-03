@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1511-count-number-of-teams](https://github.com/M0stafaKhaled/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1628-count-submatrices-with-all-ones](https://github.com/M0stafaKhaled/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/M0stafaKhaled/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1813-maximum-erasure-value](https://github.com/M0stafaKhaled/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1830-count-good-meals](https://github.com/M0stafaKhaled/Leetcode/tree/master/1830-count-good-meals) |
 | [1899-count-items-matching-a-rule](https://github.com/M0stafaKhaled/Leetcode/tree/master/1899-count-items-matching-a-rule) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/M0stafaKhaled/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/M0stafaKhaled/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/M0stafaKhaled/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/M0stafaKhaled/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/M0stafaKhaled/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1899-count-items-matching-a-rule](https://github.com/M0stafaKhaled/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2001-jump-game-vii](https://github.com/M0stafaKhaled/Leetcode/tree/master/2001-jump-game-vii) |
@@ -631,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/M0stafaKhaled/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1511-count-number-of-teams](https://github.com/M0stafaKhaled/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1628-count-submatrices-with-all-ones](https://github.com/M0stafaKhaled/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/M0stafaKhaled/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/M0stafaKhaled/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2001-jump-game-vii](https://github.com/M0stafaKhaled/Leetcode/tree/master/2001-jump-game-vii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/M0stafaKhaled/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -741,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/M0stafaKhaled/Leetcode/tree/master/1448-maximum-69-number) |
 | [1464-reduce-array-size-to-the-half](https://github.com/M0stafaKhaled/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/M0stafaKhaled/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/M0stafaKhaled/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/M0stafaKhaled/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/M0stafaKhaled/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/M0stafaKhaled/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
