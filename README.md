@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/M0stafaKhaled/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1447-jump-game-iv](https://github.com/M0stafaKhaled/Leetcode/tree/master/1447-jump-game-iv) |
 | [1464-reduce-array-size-to-the-half](https://github.com/M0stafaKhaled/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
+| [1470-shuffle-the-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/M0stafaKhaled/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/M0stafaKhaled/Leetcode/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
