@@ -1,8 +1,5 @@
 class LRUCache {
 public:
-    priority_queue<std::pair<int, int>, std::vector<std::pair<int, int>>,
-                   std::greater<std::pair<int, int>>>
-        pq;
     int timer = 0;
     int cap = 0;
     int st = 1;
