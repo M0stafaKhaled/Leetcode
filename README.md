@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/M0stafaKhaled/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/M0stafaKhaled/Leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/M0stafaKhaled/Leetcode/tree/master/0016-3sum-closest) |
+| [0033-search-in-rotated-sorted-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/M0stafaKhaled/Leetcode/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/M0stafaKhaled/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/M0stafaKhaled/Leetcode/tree/master/0048-rotate-image) |
@@ -805,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/M0stafaKhaled/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/M0stafaKhaled/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/M0stafaKhaled/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
