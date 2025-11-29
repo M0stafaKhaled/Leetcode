@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/M0stafaKhaled/Leetcode/tree/master/1184-car-pooling) |
 | [1222-remove-covered-intervals](https://github.com/M0stafaKhaled/Leetcode/tree/master/1222-remove-covered-intervals) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/M0stafaKhaled/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/M0stafaKhaled/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1331-path-with-maximum-gold](https://github.com/M0stafaKhaled/Leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/M0stafaKhaled/Leetcode/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/M0stafaKhaled/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/M0stafaKhaled/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/M0stafaKhaled/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/M0stafaKhaled/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/M0stafaKhaled/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1370-count-number-of-nice-subarrays](https://github.com/M0stafaKhaled/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/M0stafaKhaled/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/M0stafaKhaled/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
