@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/M0stafaKhaled/Leetcode/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/M0stafaKhaled/Leetcode/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/M0stafaKhaled/Leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/M0stafaKhaled/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/M0stafaKhaled/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/M0stafaKhaled/Leetcode/tree/master/0054-spiral-matrix) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/M0stafaKhaled/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/M0stafaKhaled/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/M0stafaKhaled/Leetcode/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/M0stafaKhaled/Leetcode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/M0stafaKhaled/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/M0stafaKhaled/Leetcode/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/0142-linked-list-cycle-ii) |
