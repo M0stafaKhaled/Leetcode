@@ -16,7 +16,7 @@ public:
         }
         // cout << "enddd " << endl;
 
-        for (int i = 0; i < nums.size(); i++) {
+        for (int i = 0; i < start; i++) {
             int x = nums[i];
             while (x > 0 && x <= n && nums[x - 1] != x) {
                 swap(nums[i], nums[x - 1]);
