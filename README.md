@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/M0stafaKhaled/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/M0stafaKhaled/Leetcode/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/M0stafaKhaled/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/M0stafaKhaled/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/M0stafaKhaled/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/M0stafaKhaled/Leetcode/tree/master/0542-01-matrix) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0432-all-oone-data-structure](https://github.com/M0stafaKhaled/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/M0stafaKhaled/Leetcode/tree/master/0460-lfu-cache) |
+| [0496-next-greater-element-i](https://github.com/M0stafaKhaled/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/M0stafaKhaled/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/M0stafaKhaled/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/M0stafaKhaled/Leetcode/tree/master/0645-set-mismatch) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/M0stafaKhaled/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0341-flatten-nested-list-iterator](https://github.com/M0stafaKhaled/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0402-remove-k-digits](https://github.com/M0stafaKhaled/Leetcode/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/M0stafaKhaled/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1628-count-submatrices-with-all-ones](https://github.com/M0stafaKhaled/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/M0stafaKhaled/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -561,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/M0stafaKhaled/Leetcode/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/M0stafaKhaled/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1628-count-submatrices-with-all-ones](https://github.com/M0stafaKhaled/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2573-remove-nodes-from-linked-list](https://github.com/M0stafaKhaled/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Math
