@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1479-construct-target-array-with-multiple-sums](https://github.com/M0stafaKhaled/Leetcode/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1511-count-number-of-teams](https://github.com/M0stafaKhaled/Leetcode/tree/master/1511-count-number-of-teams) |
+| [1539-kth-missing-positive-number](https://github.com/M0stafaKhaled/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1590-make-sum-divisible-by-p](https://github.com/M0stafaKhaled/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1628-count-submatrices-with-all-ones](https://github.com/M0stafaKhaled/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/M0stafaKhaled/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -865,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/M0stafaKhaled/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1122-longest-duplicate-substring](https://github.com/M0stafaKhaled/Leetcode/tree/master/1122-longest-duplicate-substring) |
 | [1321-get-equal-substrings-within-budget](https://github.com/M0stafaKhaled/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
+| [1539-kth-missing-positive-number](https://github.com/M0stafaKhaled/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/M0stafaKhaled/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/M0stafaKhaled/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/M0stafaKhaled/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
