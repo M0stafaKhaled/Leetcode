@@ -3,7 +3,6 @@ public:
     int bestClosingTime(string customers) {
 
         int n = customers.size();
-        vector<int> suf(n);
         int s = 0;
         for (int i = 0; i < customers.size(); i++) {
             int cur = customers[i] == 'Y';
