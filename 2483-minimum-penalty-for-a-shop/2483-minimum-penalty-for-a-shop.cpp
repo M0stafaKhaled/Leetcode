@@ -15,7 +15,7 @@ public:
         int index = 0;
         int i = 0;
         for (; i < customers.size(); i++) {
-            cout << s << " " << pre << endl;
+
             if (s + pre < ans) {
                 ans = s + pre;
                 index = i;
