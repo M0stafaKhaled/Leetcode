@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1229-shortest-path-with-alternating-colors](https://github.com/M0stafaKhaled/Leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1275-validate-binary-tree-nodes](https://github.com/M0stafaKhaled/Leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/M0stafaKhaled/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/M0stafaKhaled/Leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/M0stafaKhaled/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1971-find-if-path-exists-in-graph](https://github.com/M0stafaKhaled/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/M0stafaKhaled/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
