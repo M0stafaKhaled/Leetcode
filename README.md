@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/M0stafaKhaled/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/M0stafaKhaled/Leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/M0stafaKhaled/Leetcode/tree/master/0268-missing-number) |
 | [0284-peeking-iterator](https://github.com/M0stafaKhaled/Leetcode/tree/master/0284-peeking-iterator) |
 | [0300-longest-increasing-subsequence](https://github.com/M0stafaKhaled/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/M0stafaKhaled/Leetcode/tree/master/0307-range-sum-query-mutable) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/M0stafaKhaled/Leetcode/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/M0stafaKhaled/Leetcode/tree/master/0146-lru-cache) |
+| [0268-missing-number](https://github.com/M0stafaKhaled/Leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/M0stafaKhaled/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0432-all-oone-data-structure](https://github.com/M0stafaKhaled/Leetcode/tree/master/0432-all-oone-data-structure) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/M0stafaKhaled/Leetcode/tree/master/0016-3sum-closest) |
 | [0148-sort-list](https://github.com/M0stafaKhaled/Leetcode/tree/master/0148-sort-list) |
+| [0268-missing-number](https://github.com/M0stafaKhaled/Leetcode/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/M0stafaKhaled/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0475-heaters](https://github.com/M0stafaKhaled/Leetcode/tree/master/0475-heaters) |
 | [0594-longest-harmonious-subsequence](https://github.com/M0stafaKhaled/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -608,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/M0stafaKhaled/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0227-basic-calculator-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/M0stafaKhaled/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/M0stafaKhaled/Leetcode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/M0stafaKhaled/Leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/M0stafaKhaled/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/M0stafaKhaled/Leetcode/tree/master/0342-power-of-four) |
@@ -755,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/M0stafaKhaled/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/M0stafaKhaled/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/M0stafaKhaled/Leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/M0stafaKhaled/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/M0stafaKhaled/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/M0stafaKhaled/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -879,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/M0stafaKhaled/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/M0stafaKhaled/Leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/M0stafaKhaled/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/M0stafaKhaled/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0475-heaters](https://github.com/M0stafaKhaled/Leetcode/tree/master/0475-heaters) |
