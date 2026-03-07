@@ -14,20 +14,17 @@ class Solution {
 public:
     vector<int> arr;
     bool ans = true;
-    void solve(TreeNode* root) {
+    bool solve(TreeNode* root, long long max, long long min) {
         if (!root)
-            return;
+            return true;
+        if (root->val >= max || root->val <= min)
+            return false;
 
-        solve(root->left);
-        arr.push_back(root->val);
-        solve(root->right);
+        return solve(root->left, root->val, min) &&
+               solve(root->right, max, root->val);
     }
     bool isValidBST(TreeNode* root) {
-        solve(root);
-        for (int i = 0; i < arr.size() - 1; i++) {
-            if (arr[i] >= arr[i + 1])
-                return false;
-        }
-        return true;
+
+        return solve(root, LLONG_MAX, LLONG_MIN);
     }
 };
