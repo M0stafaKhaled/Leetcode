@@ -8,12 +8,11 @@ public:
             if (cur)
                 end = i;
         }
-        for (int i = 0; i <= end; i++) {
-            int cur = (n >> i) & 1;
-            cur = 1;
-            n ^= cur << i;
-        }
+        
+        int d = 1<<(end+1) ; 
+        d-- ; 
 
-        return n;
+
+        return d^n;
     }
 };
