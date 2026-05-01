@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/M0stafaKhaled/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/M0stafaKhaled/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/M0stafaKhaled/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0396-rotate-function](https://github.com/M0stafaKhaled/Leetcode/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/M0stafaKhaled/Leetcode/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/M0stafaKhaled/Leetcode/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -630,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/M0stafaKhaled/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0382-linked-list-random-node](https://github.com/M0stafaKhaled/Leetcode/tree/master/0382-linked-list-random-node) |
 | [0390-elimination-game](https://github.com/M0stafaKhaled/Leetcode/tree/master/0390-elimination-game) |
+| [0396-rotate-function](https://github.com/M0stafaKhaled/Leetcode/tree/master/0396-rotate-function) |
 | [0464-can-i-win](https://github.com/M0stafaKhaled/Leetcode/tree/master/0464-can-i-win) |
 | [0795-k-th-symbol-in-grammar](https://github.com/M0stafaKhaled/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0797-rabbits-in-forest](https://github.com/M0stafaKhaled/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -694,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/M0stafaKhaled/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/M0stafaKhaled/Leetcode/tree/master/0322-coin-change) |
 | [0357-count-numbers-with-unique-digits](https://github.com/M0stafaKhaled/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0396-rotate-function](https://github.com/M0stafaKhaled/Leetcode/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/M0stafaKhaled/Leetcode/tree/master/0403-frog-jump) |
 | [0464-can-i-win](https://github.com/M0stafaKhaled/Leetcode/tree/master/0464-can-i-win) |
 | [0474-ones-and-zeroes](https://github.com/M0stafaKhaled/Leetcode/tree/master/0474-ones-and-zeroes) |
