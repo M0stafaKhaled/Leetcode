@@ -24,7 +24,7 @@ public:
             rem = size % k;
         }
         int buk = max(size / k, 1);
-        cout << rem << buk << endl;
+       
         node = head;
         vector<ListNode*> ans;
         while (node) {
