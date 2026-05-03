@@ -446,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/M0stafaKhaled/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/M0stafaKhaled/Leetcode/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/M0stafaKhaled/Leetcode/tree/master/0721-accounts-merge) |
+| [0796-rotate-string](https://github.com/M0stafaKhaled/Leetcode/tree/master/0796-rotate-string) |
 | [0800-letter-case-permutation](https://github.com/M0stafaKhaled/Leetcode/tree/master/0800-letter-case-permutation) |
 | [0926-find-and-replace-pattern](https://github.com/M0stafaKhaled/Leetcode/tree/master/0926-find-and-replace-pattern) |
 | [1006-vowel-spellchecker](https://github.com/M0stafaKhaled/Leetcode/tree/master/1006-vowel-spellchecker) |
@@ -1110,6 +1111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/M0stafaKhaled/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/M0stafaKhaled/Leetcode/tree/master/0796-rotate-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/M0stafaKhaled/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Combinatorics
 |  |
