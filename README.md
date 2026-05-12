@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/M0stafaKhaled/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1590-make-sum-divisible-by-p](https://github.com/M0stafaKhaled/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1628-count-submatrices-with-all-ones](https://github.com/M0stafaKhaled/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/M0stafaKhaled/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/M0stafaKhaled/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1813-maximum-erasure-value](https://github.com/M0stafaKhaled/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/M0stafaKhaled/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1464-reduce-array-size-to-the-half](https://github.com/M0stafaKhaled/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/M0stafaKhaled/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/M0stafaKhaled/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2125-gcd-sort-of-an-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/2125-gcd-sort-of-an-array) |
 | [2213-find-all-people-with-secret](https://github.com/M0stafaKhaled/Leetcode/tree/master/2213-find-all-people-with-secret) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/M0stafaKhaled/Leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
@@ -855,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/M0stafaKhaled/Leetcode/tree/master/1448-maximum-69-number) |
 | [1464-reduce-array-size-to-the-half](https://github.com/M0stafaKhaled/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/M0stafaKhaled/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/M0stafaKhaled/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/M0stafaKhaled/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/M0stafaKhaled/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1824-minimum-sideway-jumps](https://github.com/M0stafaKhaled/Leetcode/tree/master/1824-minimum-sideway-jumps) |
