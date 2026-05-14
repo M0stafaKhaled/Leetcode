@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/M0stafaKhaled/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0828-chalkboard-xor-game](https://github.com/M0stafaKhaled/Leetcode/tree/master/0828-chalkboard-xor-game) |
 | [0879-maximize-distance-to-closest-person](https://github.com/M0stafaKhaled/Leetcode/tree/master/0879-maximize-distance-to-closest-person) |
+| [0881-boats-to-save-people](https://github.com/M0stafaKhaled/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0909-stone-game](https://github.com/M0stafaKhaled/Leetcode/tree/master/0909-stone-game) |
 | [0912-random-pick-with-weight](https://github.com/M0stafaKhaled/Leetcode/tree/master/0912-random-pick-with-weight) |
 | [0926-find-and-replace-pattern](https://github.com/M0stafaKhaled/Leetcode/tree/master/0926-find-and-replace-pattern) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/M0stafaKhaled/Leetcode/tree/master/0645-set-mismatch) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/M0stafaKhaled/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0721-accounts-merge](https://github.com/M0stafaKhaled/Leetcode/tree/master/0721-accounts-merge) |
+| [0881-boats-to-save-people](https://github.com/M0stafaKhaled/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0900-reordered-power-of-2](https://github.com/M0stafaKhaled/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1014-k-closest-points-to-origin](https://github.com/M0stafaKhaled/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/M0stafaKhaled/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -864,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/M0stafaKhaled/Leetcode/tree/master/0402-remove-k-digits) |
 | [0797-rabbits-in-forest](https://github.com/M0stafaKhaled/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [0881-boats-to-save-people](https://github.com/M0stafaKhaled/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/M0stafaKhaled/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/M0stafaKhaled/Leetcode/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [1448-maximum-69-number](https://github.com/M0stafaKhaled/Leetcode/tree/master/1448-maximum-69-number) |
@@ -927,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/M0stafaKhaled/Leetcode/tree/master/0475-heaters) |
 | [0567-permutation-in-string](https://github.com/M0stafaKhaled/Leetcode/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/M0stafaKhaled/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0881-boats-to-save-people](https://github.com/M0stafaKhaled/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1861-rotating-the-box](https://github.com/M0stafaKhaled/Leetcode/tree/master/1861-rotating-the-box) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/M0stafaKhaled/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2664-maximize-greatness-of-an-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/2664-maximize-greatness-of-an-array) |
