@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1824-minimum-sideway-jumps](https://github.com/M0stafaKhaled/Leetcode/tree/master/1824-minimum-sideway-jumps) |
 | [1830-count-good-meals](https://github.com/M0stafaKhaled/Leetcode/tree/master/1830-count-good-meals) |
 | [1861-rotating-the-box](https://github.com/M0stafaKhaled/Leetcode/tree/master/1861-rotating-the-box) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/M0stafaKhaled/Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1899-count-items-matching-a-rule](https://github.com/M0stafaKhaled/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1929-concatenation-of-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/M0stafaKhaled/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/M0stafaKhaled/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1813-maximum-erasure-value](https://github.com/M0stafaKhaled/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1830-count-good-meals](https://github.com/M0stafaKhaled/Leetcode/tree/master/1830-count-good-meals) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/M0stafaKhaled/Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/M0stafaKhaled/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/M0stafaKhaled/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/M0stafaKhaled/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -897,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/M0stafaKhaled/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1590-make-sum-divisible-by-p](https://github.com/M0stafaKhaled/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/M0stafaKhaled/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/M0stafaKhaled/Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/M0stafaKhaled/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2001-jump-game-vii](https://github.com/M0stafaKhaled/Leetcode/tree/master/2001-jump-game-vii) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/M0stafaKhaled/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
