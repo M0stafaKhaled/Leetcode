@@ -12,10 +12,6 @@
  */
 class Solution {
 public:
-    vector<TreeNode*> ans;
-    bool vist[8];
-    int max;
-    int cur = 0;
     vector<TreeNode*> solve(int left, int right) {
 
         if (left == right) {
@@ -37,8 +33,5 @@ public:
 
         return res;
     }
-    vector<TreeNode*> generateTrees(int n) {
-        return solve(1, n);
-        return ans;
-    }
+    vector<TreeNode*> generateTrees(int n) { return solve(1, n); }
 };
