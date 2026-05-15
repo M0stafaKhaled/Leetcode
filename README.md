@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/M0stafaKhaled/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/M0stafaKhaled/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/M0stafaKhaled/Leetcode/tree/master/0110-balanced-binary-tree) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/M0stafaKhaled/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/M0stafaKhaled/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/M0stafaKhaled/Leetcode/tree/master/0110-balanced-binary-tree) |
@@ -717,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/M0stafaKhaled/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/M0stafaKhaled/Leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/M0stafaKhaled/Leetcode/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/M0stafaKhaled/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/M0stafaKhaled/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -835,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/M0stafaKhaled/Leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/M0stafaKhaled/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/M0stafaKhaled/Leetcode/tree/master/0078-subsets) |
+| [0095-unique-binary-search-trees-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/M0stafaKhaled/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0357-count-numbers-with-unique-digits](https://github.com/M0stafaKhaled/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/M0stafaKhaled/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -1037,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/M0stafaKhaled/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/M0stafaKhaled/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/M0stafaKhaled/Leetcode/tree/master/0173-binary-search-tree-iterator) |
