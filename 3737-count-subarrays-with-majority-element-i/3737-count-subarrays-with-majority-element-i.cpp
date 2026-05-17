@@ -8,7 +8,6 @@ public:
         int max_e = 0;
         int ans = 0;
         int start = 0;
-        priority_queue<pair<int, int>> pq;
         for (int i = 0; i < nums.size(); i++) {
             unordered_map<int, int> freq;
 
@@ -19,7 +18,6 @@ public:
                     ans++;
                 }
             }
-            cout << freq[target] << endl;
         }
         return ans;
     }
