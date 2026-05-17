@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/M0stafaKhaled/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/M0stafaKhaled/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/M0stafaKhaled/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3467-transform-array-by-parity](https://github.com/M0stafaKhaled/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/M0stafaKhaled/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/M0stafaKhaled/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/M0stafaKhaled/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/M0stafaKhaled/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/M0stafaKhaled/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3467-transform-array-by-parity](https://github.com/M0stafaKhaled/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/M0stafaKhaled/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3842-toggle-light-bulbs](https://github.com/M0stafaKhaled/Leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Counting
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/M0stafaKhaled/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/M0stafaKhaled/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/M0stafaKhaled/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3467-transform-array-by-parity](https://github.com/M0stafaKhaled/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/M0stafaKhaled/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Breadth-First Search
 |  |
