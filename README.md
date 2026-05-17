@@ -497,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/M0stafaKhaled/Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/M0stafaKhaled/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/M0stafaKhaled/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/M0stafaKhaled/Leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/M0stafaKhaled/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1899-count-items-matching-a-rule](https://github.com/M0stafaKhaled/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/M0stafaKhaled/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -695,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/M0stafaKhaled/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/M0stafaKhaled/Leetcode/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/M0stafaKhaled/Leetcode/tree/master/1642-water-bottles) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/M0stafaKhaled/Leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/M0stafaKhaled/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2083-three-divisors](https://github.com/M0stafaKhaled/Leetcode/tree/master/2083-three-divisors) |
