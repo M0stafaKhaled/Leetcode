@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/M0stafaKhaled/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1306-jump-game-iii](https://github.com/M0stafaKhaled/Leetcode/tree/master/1306-jump-game-iii) |
 | [1331-path-with-maximum-gold](https://github.com/M0stafaKhaled/Leetcode/tree/master/1331-path-with-maximum-gold) |
+| [1345-jump-game-iv](https://github.com/M0stafaKhaled/Leetcode/tree/master/1345-jump-game-iv) |
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/M0stafaKhaled/Leetcode/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/M0stafaKhaled/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/M0stafaKhaled/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/M0stafaKhaled/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/M0stafaKhaled/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/M0stafaKhaled/Leetcode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1345-jump-game-iv](https://github.com/M0stafaKhaled/Leetcode/tree/master/1345-jump-game-iv) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/M0stafaKhaled/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/M0stafaKhaled/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1447-jump-game-iv](https://github.com/M0stafaKhaled/Leetcode/tree/master/1447-jump-game-iv) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1229-shortest-path-with-alternating-colors](https://github.com/M0stafaKhaled/Leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1275-validate-binary-tree-nodes](https://github.com/M0stafaKhaled/Leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1306-jump-game-iii](https://github.com/M0stafaKhaled/Leetcode/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/M0stafaKhaled/Leetcode/tree/master/1345-jump-game-iv) |
 | [1380-number-of-closed-islands](https://github.com/M0stafaKhaled/Leetcode/tree/master/1380-number-of-closed-islands) |
 | [1428-jump-game-iii](https://github.com/M0stafaKhaled/Leetcode/tree/master/1428-jump-game-iii) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/M0stafaKhaled/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
