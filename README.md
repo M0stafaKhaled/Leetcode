@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/M0stafaKhaled/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1428-jump-game-iii](https://github.com/M0stafaKhaled/Leetcode/tree/master/1428-jump-game-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/M0stafaKhaled/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1441-build-an-array-with-stack-operations](https://github.com/M0stafaKhaled/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1447-jump-game-iv](https://github.com/M0stafaKhaled/Leetcode/tree/master/1447-jump-game-iv) |
 | [1464-reduce-array-size-to-the-half](https://github.com/M0stafaKhaled/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1470-shuffle-the-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -647,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/M0stafaKhaled/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/M0stafaKhaled/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/M0stafaKhaled/Leetcode/tree/master/0739-daily-temperatures) |
+| [1441-build-an-array-with-stack-operations](https://github.com/M0stafaKhaled/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1628-count-submatrices-with-all-ones](https://github.com/M0stafaKhaled/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/M0stafaKhaled/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/M0stafaKhaled/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -1056,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/M0stafaKhaled/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1094-car-pooling](https://github.com/M0stafaKhaled/Leetcode/tree/master/1094-car-pooling) |
 | [1184-car-pooling](https://github.com/M0stafaKhaled/Leetcode/tree/master/1184-car-pooling) |
+| [1441-build-an-array-with-stack-operations](https://github.com/M0stafaKhaled/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/M0stafaKhaled/Leetcode/tree/master/1642-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/M0stafaKhaled/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
