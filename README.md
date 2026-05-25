@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/M0stafaKhaled/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/M0stafaKhaled/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/M0stafaKhaled/Leetcode/tree/master/1813-maximum-erasure-value) |
+| [1871-jump-game-vii](https://github.com/M0stafaKhaled/Leetcode/tree/master/1871-jump-game-vii) |
 | [2001-jump-game-vii](https://github.com/M0stafaKhaled/Leetcode/tree/master/2001-jump-game-vii) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/M0stafaKhaled/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/M0stafaKhaled/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/M0stafaKhaled/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/M0stafaKhaled/Leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/M0stafaKhaled/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1871-jump-game-vii](https://github.com/M0stafaKhaled/Leetcode/tree/master/1871-jump-game-vii) |
 | [1899-count-items-matching-a-rule](https://github.com/M0stafaKhaled/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/M0stafaKhaled/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2001-jump-game-vii](https://github.com/M0stafaKhaled/Leetcode/tree/master/2001-jump-game-vii) |
@@ -793,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/M0stafaKhaled/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/M0stafaKhaled/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1824-minimum-sideway-jumps](https://github.com/M0stafaKhaled/Leetcode/tree/master/1824-minimum-sideway-jumps) |
+| [1871-jump-game-vii](https://github.com/M0stafaKhaled/Leetcode/tree/master/1871-jump-game-vii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/M0stafaKhaled/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2001-jump-game-vii](https://github.com/M0stafaKhaled/Leetcode/tree/master/2001-jump-game-vii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/M0stafaKhaled/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -948,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/M0stafaKhaled/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1590-make-sum-divisible-by-p](https://github.com/M0stafaKhaled/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/M0stafaKhaled/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1871-jump-game-vii](https://github.com/M0stafaKhaled/Leetcode/tree/master/1871-jump-game-vii) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/M0stafaKhaled/Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/M0stafaKhaled/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2001-jump-game-vii](https://github.com/M0stafaKhaled/Leetcode/tree/master/2001-jump-game-vii) |
