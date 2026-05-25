@@ -486,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/M0stafaKhaled/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/M0stafaKhaled/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/M0stafaKhaled/Leetcode/tree/master/0044-wildcard-matching) |
+| [0067-add-binary](https://github.com/M0stafaKhaled/Leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/M0stafaKhaled/Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/M0stafaKhaled/Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/M0stafaKhaled/Leetcode/tree/master/0076-minimum-window-substring) |
@@ -694,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/M0stafaKhaled/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/M0stafaKhaled/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/M0stafaKhaled/Leetcode/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/M0stafaKhaled/Leetcode/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/M0stafaKhaled/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/M0stafaKhaled/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/0227-basic-calculator-ii) |
@@ -849,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/M0stafaKhaled/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/M0stafaKhaled/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/M0stafaKhaled/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/0137-single-number-ii) |
@@ -1070,6 +1073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/M0stafaKhaled/Leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/M0stafaKhaled/Leetcode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/M0stafaKhaled/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1094-car-pooling](https://github.com/M0stafaKhaled/Leetcode/tree/master/1094-car-pooling) |
 | [1184-car-pooling](https://github.com/M0stafaKhaled/Leetcode/tree/master/1184-car-pooling) |
