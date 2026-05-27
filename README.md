@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/M0stafaKhaled/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/M0stafaKhaled/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/M0stafaKhaled/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/M0stafaKhaled/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/M0stafaKhaled/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/M0stafaKhaled/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/M0stafaKhaled/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/M0stafaKhaled/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/M0stafaKhaled/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3396-valid-word](https://github.com/M0stafaKhaled/Leetcode/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/M0stafaKhaled/Leetcode/tree/master/3462-vowels-game-in-a-string) |
