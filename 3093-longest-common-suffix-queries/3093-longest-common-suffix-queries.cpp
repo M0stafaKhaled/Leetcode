@@ -14,12 +14,14 @@ public:
     vector<string>* words;
 
     bool better(int a, int b) {
-        if (b == -1) return true;
+        if (b == -1)
+            return true;
 
         int lenA = (*words)[a].size();
         int lenB = (*words)[b].size();
 
-        if (lenA != lenB) return lenA < lenB;
+        if (lenA != lenB)
+            return lenA < lenB;
         return a < b;
     }
 
@@ -65,7 +67,7 @@ public:
                               vector<string>& wordsQuery) {
         words = &wordsContainer;
 
-        trie.reserve(500000 + 1);
+        trie.reserve(wordsContainer.size() + 1);
         trie.push_back(Node());
 
         for (int i = 0; i < wordsContainer.size(); i++) {
