@@ -25,7 +25,7 @@ public:
 
         int n = nums.size();
 
-        bst tree(1e8);
+        bst tree(1e5 + 1);
         long long l = 0;
         long long g = 0;
 
