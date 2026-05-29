@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/M0stafaKhaled/Leetcode/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/M0stafaKhaled/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/M0stafaKhaled/Leetcode/tree/master/0739-daily-temperatures) |
+| [0775-global-and-local-inversions](https://github.com/M0stafaKhaled/Leetcode/tree/master/0775-global-and-local-inversions) |
 | [0777-toeplitz-matrix](https://github.com/M0stafaKhaled/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0797-rabbits-in-forest](https://github.com/M0stafaKhaled/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0828-chalkboard-xor-game](https://github.com/M0stafaKhaled/Leetcode/tree/master/0828-chalkboard-xor-game) |
@@ -720,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/M0stafaKhaled/Leetcode/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/M0stafaKhaled/Leetcode/tree/master/0396-rotate-function) |
 | [0464-can-i-win](https://github.com/M0stafaKhaled/Leetcode/tree/master/0464-can-i-win) |
+| [0775-global-and-local-inversions](https://github.com/M0stafaKhaled/Leetcode/tree/master/0775-global-and-local-inversions) |
 | [0795-k-th-symbol-in-grammar](https://github.com/M0stafaKhaled/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0797-rabbits-in-forest](https://github.com/M0stafaKhaled/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/M0stafaKhaled/Leetcode/tree/master/0826-soup-servings) |
