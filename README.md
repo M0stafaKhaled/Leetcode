@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/M0stafaKhaled/Leetcode/tree/master/1861-rotating-the-box) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/M0stafaKhaled/Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1899-count-items-matching-a-rule](https://github.com/M0stafaKhaled/Leetcode/tree/master/1899-count-items-matching-a-rule) |
+| [1914-cyclically-rotating-a-grid](https://github.com/M0stafaKhaled/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/M0stafaKhaled/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/M0stafaKhaled/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -633,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/M0stafaKhaled/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/M0stafaKhaled/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1861-rotating-the-box](https://github.com/M0stafaKhaled/Leetcode/tree/master/1861-rotating-the-box) |
+| [1914-cyclically-rotating-a-grid](https://github.com/M0stafaKhaled/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/M0stafaKhaled/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/M0stafaKhaled/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/M0stafaKhaled/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -1098,6 +1100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1409-queries-on-a-permutation-with-key](https://github.com/M0stafaKhaled/Leetcode/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1441-build-an-array-with-stack-operations](https://github.com/M0stafaKhaled/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/M0stafaKhaled/Leetcode/tree/master/1642-water-bottles) |
+| [1914-cyclically-rotating-a-grid](https://github.com/M0stafaKhaled/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/M0stafaKhaled/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/M0stafaKhaled/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
