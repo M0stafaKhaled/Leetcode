@@ -720,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/M0stafaKhaled/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/M0stafaKhaled/Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/M0stafaKhaled/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/M0stafaKhaled/Leetcode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/M0stafaKhaled/Leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/M0stafaKhaled/Leetcode/tree/master/0326-power-of-three) |
@@ -1103,6 +1104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/M0stafaKhaled/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/M0stafaKhaled/Leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/M0stafaKhaled/Leetcode/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/M0stafaKhaled/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1094-car-pooling](https://github.com/M0stafaKhaled/Leetcode/tree/master/1094-car-pooling) |
 | [1184-car-pooling](https://github.com/M0stafaKhaled/Leetcode/tree/master/1184-car-pooling) |
@@ -1238,6 +1240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/M0stafaKhaled/Leetcode/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/M0stafaKhaled/Leetcode/tree/master/2083-three-divisors) |
 | [2125-gcd-sort-of-an-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/2125-gcd-sort-of-an-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
