@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/M0stafaKhaled/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0971-shortest-bridge](https://github.com/M0stafaKhaled/Leetcode/tree/master/0971-shortest-bridge) |
+| [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/M0stafaKhaled/Leetcode/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [1006-vowel-spellchecker](https://github.com/M0stafaKhaled/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1014-k-closest-points-to-origin](https://github.com/M0stafaKhaled/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1020-longest-turbulent-subarray](https://github.com/M0stafaKhaled/Leetcode/tree/master/1020-longest-turbulent-subarray) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/M0stafaKhaled/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0926-find-and-replace-pattern](https://github.com/M0stafaKhaled/Leetcode/tree/master/0926-find-and-replace-pattern) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/M0stafaKhaled/Leetcode/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/M0stafaKhaled/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1006-vowel-spellchecker](https://github.com/M0stafaKhaled/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/M0stafaKhaled/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -897,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0800-letter-case-permutation](https://github.com/M0stafaKhaled/Leetcode/tree/master/0800-letter-case-permutation) |
 | [0828-chalkboard-xor-game](https://github.com/M0stafaKhaled/Leetcode/tree/master/0828-chalkboard-xor-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/M0stafaKhaled/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/M0stafaKhaled/Leetcode/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [1009-complement-of-base-10-integer](https://github.com/M0stafaKhaled/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1022-unique-paths-iii](https://github.com/M0stafaKhaled/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/M0stafaKhaled/Leetcode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
