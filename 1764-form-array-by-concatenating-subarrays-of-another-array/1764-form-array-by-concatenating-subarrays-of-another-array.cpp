@@ -36,10 +36,8 @@ public:
                 if (a == groups[i].size()) {
                     break;
                 }
-                cout << a << " " << j << endl;
                 if (nums[j] == groups[i][a]) {
                     a++;
-                    cout << "test" << endl;
                 } else {
                     if (a == 0)
                         continue;
@@ -48,15 +46,14 @@ public:
                         a = lps[i][a - 1];
                         if (nums[j] == groups[i][a]) {
                             a++;
-                            break ; 
+                            break;
                         }
-                       
                     }
                 }
             }
 
             if (a != groups[i].size()) {
-                cout << i << endl;
+              
                 return 0;
             }
         }
