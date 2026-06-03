@@ -20,7 +20,7 @@ public:
                             start++;
                             break;
                         }
-                        start--;
+                        start = cur[start - 1];
                     }
                 }
             }
@@ -53,7 +53,7 @@ public:
             }
 
             if (a != groups[i].size()) {
-              
+
                 return 0;
             }
         }
