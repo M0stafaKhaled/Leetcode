@@ -788,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/M0stafaKhaled/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/M0stafaKhaled/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/M0stafaKhaled/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/M0stafaKhaled/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -850,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/M0stafaKhaled/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3660-jump-game-ix](https://github.com/M0stafaKhaled/Leetcode/tree/master/3660-jump-game-ix) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/M0stafaKhaled/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/M0stafaKhaled/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Design
 |  |
 | ------- |
@@ -1223,6 +1225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/M0stafaKhaled/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/M0stafaKhaled/Leetcode/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/M0stafaKhaled/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/M0stafaKhaled/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Ordered Set
 |  |
 | ------- |
