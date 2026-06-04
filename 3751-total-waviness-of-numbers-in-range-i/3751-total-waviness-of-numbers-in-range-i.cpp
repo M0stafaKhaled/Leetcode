@@ -1,8 +1,6 @@
 class Solution {
 public:
     int solve(int num) {
-        if (num / 100 == 0)
-            return 0;
         int ans = 0;
         int prev = num % 10;
         num /= 10;
@@ -11,16 +9,9 @@ public:
         while (num) {
             int next = num % 10;
             num /= 10;
-            if (cur > prev && cur > next) {
-
+            if (cur > prev && cur > next || cur < prev && cur < next) {
                 ans++;
             }
-
-            if (cur < prev && cur < next) {
-                ans++;
-            }
-            //    cout << num << " " << cur << " " << next << " " << prev <<
-            //    endl;
             prev = cur;
             cur = next;
         }
