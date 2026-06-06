@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/M0stafaKhaled/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1032-satisfiability-of-equality-equations](https://github.com/M0stafaKhaled/Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1034-subarrays-with-k-different-integers](https://github.com/M0stafaKhaled/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1043-partition-array-for-maximum-sum](https://github.com/M0stafaKhaled/Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/M0stafaKhaled/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/M0stafaKhaled/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1094-car-pooling](https://github.com/M0stafaKhaled/Leetcode/tree/master/1094-car-pooling) |
@@ -827,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/M0stafaKhaled/Leetcode/tree/master/0909-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/M0stafaKhaled/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1020-longest-turbulent-subarray](https://github.com/M0stafaKhaled/Leetcode/tree/master/1020-longest-turbulent-subarray) |
+| [1043-partition-array-for-maximum-sum](https://github.com/M0stafaKhaled/Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/M0stafaKhaled/Leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1117-as-far-from-land-as-possible](https://github.com/M0stafaKhaled/Leetcode/tree/master/1117-as-far-from-land-as-possible) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/M0stafaKhaled/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
