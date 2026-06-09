@@ -27,7 +27,7 @@ public:
         }
 
         ans = (max_val - min_val) * 1LL * k;
-        cout << min_index << " " << max_index << endl;
+       // cout << min_index << " " << max_index << endl;
         return ans;
     }
 };
