@@ -9,20 +9,20 @@ public:
         //...min.....max
 
         int max_val = 0;
-        int max_index = 0;
+      //  int max_index = 0;
         int min_val = INT_MAX;
-        int min_index = 0;
+      //  int min_index = 0;
 
         long long ans = 0;
         for (int i = 0; i < nums.size(); i++) {
             int cur = nums[i];
             if (cur >= max_val) {
                 max_val = cur;
-                max_index = i;
+              //  max_index = i;
             }
             if (cur < min_val) {
                 min_val = cur;
-                min_index = i;
+               // min_index = i;
             }
         }
 
