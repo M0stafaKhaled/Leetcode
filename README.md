@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3791-fruits-into-baskets-iii](https://github.com/M0stafaKhaled/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/M0stafaKhaled/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/M0stafaKhaled/Leetcode/tree/master/3827-implement-router) |
+| [3838-weighted-word-mapping](https://github.com/M0stafaKhaled/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/M0stafaKhaled/Leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Hash Table
 |  |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/M0stafaKhaled/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/M0stafaKhaled/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3797-design-spreadsheet](https://github.com/M0stafaKhaled/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3838-weighted-word-mapping](https://github.com/M0stafaKhaled/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/M0stafaKhaled/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Union Find
 |  |
@@ -1171,6 +1173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3511-find-the-winning-player-in-coin-game](https://github.com/M0stafaKhaled/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/M0stafaKhaled/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3790-fruits-into-baskets-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3838-weighted-word-mapping](https://github.com/M0stafaKhaled/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/M0stafaKhaled/Leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Doubly-Linked List
 |  |
