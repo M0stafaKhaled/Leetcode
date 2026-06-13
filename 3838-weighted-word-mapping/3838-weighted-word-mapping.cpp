@@ -9,21 +9,9 @@ public:
                 sum += weights[(ch - 'a')];
             }
 
-            char test = 'g';
-            cout << test - 'a' << endl;
-            cout << sum << endl;
-            // sum = (sum % 26);
             sum = (sum % 26);
-            if (sum >= 13) {
-                sum = (sum - 25);
-                sum = abs(sum);
-
-            } else {
-                sum = abs(25 - sum);
-                sum %= 26;
-            }
+            sum = abs(25 - sum);
             ans += (sum + 'a');
-            cout << sum << endl;
         }
 
         return ans;
