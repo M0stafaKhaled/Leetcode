@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1824-minimum-sideway-jumps](https://github.com/M0stafaKhaled/Leetcode/tree/master/1824-minimum-sideway-jumps) |
 | [1830-count-good-meals](https://github.com/M0stafaKhaled/Leetcode/tree/master/1830-count-good-meals) |
+| [1840-maximum-building-height](https://github.com/M0stafaKhaled/Leetcode/tree/master/1840-maximum-building-height) |
 | [1861-rotating-the-box](https://github.com/M0stafaKhaled/Leetcode/tree/master/1861-rotating-the-box) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/M0stafaKhaled/Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1899-count-items-matching-a-rule](https://github.com/M0stafaKhaled/Leetcode/tree/master/1899-count-items-matching-a-rule) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-reduce-array-size-to-the-half](https://github.com/M0stafaKhaled/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/M0stafaKhaled/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/M0stafaKhaled/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1840-maximum-building-height](https://github.com/M0stafaKhaled/Leetcode/tree/master/1840-maximum-building-height) |
 | [2125-gcd-sort-of-an-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/2125-gcd-sort-of-an-array) |
 | [2126-destroying-asteroids](https://github.com/M0stafaKhaled/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/M0stafaKhaled/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -783,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1759-count-number-of-homogenous-substrings](https://github.com/M0stafaKhaled/Leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/M0stafaKhaled/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1840-maximum-building-height](https://github.com/M0stafaKhaled/Leetcode/tree/master/1840-maximum-building-height) |
 | [2083-three-divisors](https://github.com/M0stafaKhaled/Leetcode/tree/master/2083-three-divisors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/M0stafaKhaled/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2125-gcd-sort-of-an-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/2125-gcd-sort-of-an-array) |
