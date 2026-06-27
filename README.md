@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2857-count-pairs-of-points-with-distance-k](https://github.com/M0stafaKhaled/Leetcode/tree/master/2857-count-pairs-of-points-with-distance-k) |
 | [2904-sorting-three-groups](https://github.com/M0stafaKhaled/Leetcode/tree/master/2904-sorting-three-groups) |
 | [2919-maximum-number-of-groups-with-increasing-length](https://github.com/M0stafaKhaled/Leetcode/tree/master/2919-maximum-number-of-groups-with-increasing-length) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/M0stafaKhaled/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/M0stafaKhaled/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/M0stafaKhaled/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3093-longest-common-suffix-queries](https://github.com/M0stafaKhaled/Leetcode/tree/master/3093-longest-common-suffix-queries) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/M0stafaKhaled/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/M0stafaKhaled/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2857-count-pairs-of-points-with-distance-k](https://github.com/M0stafaKhaled/Leetcode/tree/master/2857-count-pairs-of-points-with-distance-k) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/M0stafaKhaled/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/M0stafaKhaled/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/M0stafaKhaled/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/M0stafaKhaled/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -1271,6 +1273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/M0stafaKhaled/Leetcode/tree/master/2083-three-divisors) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/M0stafaKhaled/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/M0stafaKhaled/Leetcode/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/M0stafaKhaled/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/M0stafaKhaled/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/M0stafaKhaled/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Ordered Set
